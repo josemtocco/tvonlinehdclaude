@@ -1,8 +1,8 @@
 ======================================================================
- TV Online HD -> M3U  |  15/11/2026 13:44:42
+ TV Online HD -> M3U  |  15/11/2026 13:50:37
 ======================================================================
 [0/5] Rede: conexão direta (sem proxy)
-      IP de saída real: 20.x.x.193  país: US
+      IP de saída real: 13.x.x.152  país: US
       BR_IP_CLIENTE ativo: cabeçalhos X-Forwarded-For/X-Real-IP enviados (não muda o IP real da conexão)
       [aviso] a conexão NÃO sai do Brasil: canais com bloqueio regional vão aparecer como falha.
 [1/5] Baixando a pagina inicial...
@@ -20,40 +20,40 @@
       canais no catalogo: 580
       canais com link direto .m3u8: 580
 
-[4/5] Validando transmissões (atualizacao #6)...
+[4/5] Validando transmissões (atualizacao #7)...
       ffprobe disponível: sim
       50/580 testados (0s)
       100/580 testados (0s)
       150/580 testados (0s)
       200/580 testados (1s)
-      250/580 testados (7s)
-      300/580 testados (11s)
-      350/580 testados (15s)
-      400/580 testados (19s)
-      450/580 testados (25s)
-      500/580 testados (31s)
-      550/580 testados (34s)
-      580/580 testados (46s)
+      250/580 testados (9s)
+      300/580 testados (15s)
+      350/580 testados (20s)
+      400/580 testados (25s)
+      450/580 testados (34s)
+      500/580 testados (42s)
+      550/580 testados (47s)
+      580/580 testados (57s)
 
 [5/5] Lista gerada
 ----------------------------------------------------------------------
 Canais no site .............: 580
 Com link direto ...........: 580
-TOCANDO (na lista) ........: 327
-Em falha (mantidos) .......: 161  (removidos após 6 falhas)
-Removidos nesta rodada ....: 92
+TOCANDO (na lista) ........: 328
+Em falha (mantidos) .......: 152  (removidos após 6 falhas)
+Removidos nesta rodada ....: 100
 Novos canais ..............: 0
 Fora do site (limpo) ......: 0
-Total na lista ............: 488 canais
+Total na lista ............: 480 canais
 ----------------------------------------------------------------------
 Canais por categoria:
-   Esportes               59
+   Esportes               58
    Infantil               30
    Documentários          20
    Filmes e Séries        77
-   Notícias               24
+   Notícias               23
    Abertos                80
-   Variedades            198
+   Variedades            192
 ----------------------------------------------------------------------
 Removidos após 6 falhas:
    - amazon prime
@@ -77,5 +77,5 @@ Removidos após 6 falhas:
    - cazétv 4
    - tv cultura
 ----------------------------------------------------------------------
-Arquivo: tvonlinehd.m3u  (488 canais)
-Tempo total: 52s
+Arquivo: tvonlinehd.m3u  (480 canais)
+Tempo total: 65s

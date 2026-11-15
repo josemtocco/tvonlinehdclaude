@@ -3,8 +3,6 @@
 https://tody.s25-cloudfront-net.lat/tody/bandsports.m3u8
 #EXTINF:-1 tvg-id="barca-tv" tvg-name="barça tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73cde5990fa4d395e807a2780b68b333.webp" group-title="Esportes",barça tv
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb543e1e7b6c678e9dd43662cef340a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7356db80148b61299bce8c37683f03409a5e5afba358b1ebe35a4cd13ff3b71d55c77a46e19f43c8821da689865b9a5ed370f847ccc6f588d613d78ff3de986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a4ad3e03cfde542fc5809caa8a16ca5bfb5de504536e4c0542104a1e8b085b9415b2cba49c39bbf404ce39f277948895dd9372737da9d9953eca664a46e5d603fb84a98b97192bb7f30a4c810c73bbd28cfd5fd9b3c0d7d620b3db65cb79662e1e4bc12a7e31c3b554148acd5008ad69916076b41828f49c753358d9bdad3915e608a571254be34821b1d3a987d2c5df53df59f0b698b0d03917a68a80f7bd314bcf007dd93f6c94a7bb9d7cc47bf48eab601ddbf428a652e560fb6bd7d0a11022d9ebe285d704ac243e5c1c3ae225a57a2a49b8cb5395230301956039cf1a721cbfca7072956900368300e537df023d966d80c4c7a5eea16c1a30471c54b611aefa93b524d7fd4af958494ddde4ba575b19aaed94ef9fcfe0855669f0ae627872e54985d0c6be4daa6a4/53/1920x1080_5129264/index.m3u8
-#EXTINF:-1 tvg-id="canal-goat" tvg-name="canal goat" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/4c0e9073-abd6-4138-8984-6906a6282030/canal-goat.png" group-title="Esportes",canal goat
-https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/canalgoat/index.m3u8
 #EXTINF:-1 tvg-id="caze-tv" tvg-name="cazétv" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/31d4b44d-27ef-4d31-8418-818bade76916/caze-tv.jpg" group-title="Esportes",cazétv
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="cazetv1" tvg-name="cazetv 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/caze1.png" group-title="Esportes",cazetv 1
@@ -409,8 +407,6 @@ https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="tv-cnb" tvg-name="tv cnb news" tvg-logo="https://televisao.tv/images/tv-cnb.webp" group-title="Notícias",tv cnb news
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w2052209439.m3u8
-#EXTINF:-1 tvg-id="jovem-pan-news" tvg-name="tv jovem pan news ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/9f0164ff-89a8-4364-a2c4-49ba6bd711ff/jovem_pan_news_150x150.png" group-title="Notícias",tv jovem pan news ao vivo
-https://d3-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/jovempannews/index.m3u8
 #EXTINF:-1 tvg-id="tv-noticias-agricolas" tvg-name="tv notícias agrícolas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822620.png" group-title="Notícias",tv notícias agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-noticias-minas" tvg-name="tv notícias minas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_338_1773027944.png" group-title="Notícias",tv notícias minas
@@ -579,8 +575,6 @@ https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="yeeaah" tvg-name="yeeaah" tvg-logo="https://s3minio.webativa.com.br/redeitv/yeeaah.png" group-title="Abertos",yeeaah
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-id="24-horas-tv" tvg-name="24 horas tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_404_1777348389.png" group-title="Variedades",24 horas tv
-https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
 #EXTINF:-1 tvg-id="40gtv-ao-vivo" tvg-name="40gtv ao vivo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_67_1781318315.png" group-title="Variedades",40gtv ao vivo
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="afazenda181" tvg-name="a fazenda 18 - 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda.png" group-title="Variedades",a fazenda 18 - 1
@@ -693,8 +687,6 @@ https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8
 https://tody.s25-cloudfront-net.lat/tody/off.m3u8
 #EXTINF:-1 tvg-id="on-fm" tvg-name="on fm" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_348_1773028673.png" group-title="Variedades",on fm
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="on-tv" tvg-name="on tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_342_1773028327.png" group-title="Variedades",on tv
-https://ikki.hubcloud.tv.br/OnTV/index.m3u8
 #EXTINF:-1 tvg-id="ortv-web-filmes-e-variedades-culturais" tvg-name="ortv web filmes e variedades culturais" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_421_1792698151.png" group-title="Variedades",ortv web filmes e variedades culturais
 https://tv.ortv.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="pitufo-tv" tvg-name="pitufo tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_346_1773028632.png" group-title="Variedades",pitufo tv
@@ -715,8 +707,6 @@ https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
 https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-estacao-amparo" tvg-name="rede estação amparo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_423_1779759863.png" group-title="Variedades",rede estação amparo
 https://stmv7.samcast.com.br/paulo8649/paulo8649/playlist.m3u8
-#EXTINF:-1 tvg-id="rede-gospel" tvg-name="rede gospel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_65_1781318405.png" group-title="Variedades",rede gospel
-https://d3-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/redegospel/index.m3u8
 #EXTINF:-1 tvg-id="redeplenitude" tvg-name="rede plenitude" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/c30ff05d-ac2f-423b-8ded-7addfdf27110/igreja_plenitude_do_trono_de_deus_150x150.jpg" group-title="Variedades",rede plenitude
 https://strv.painelvox.top/plenitude/plenitude/chunklist_w1853401077.m3u8
 #EXTINF:-1 tvg-id="rede-sdp-tv" tvg-name="rede sdp tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_105_1767830368.png" group-title="Variedades",rede sdp tv
@@ -813,8 +803,6 @@ https://stmv7.voxtvhd.com.br/pralan/pralan/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-cnu" tvg-name="tv cnu" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767823224.png" group-title="Variedades",tv cnu
 https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-com-df" tvg-name="tv com df" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822920.png" group-title="Variedades",tv com df
-https://5b7f3c45ab7c2.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-conectados" tvg-name="tv conectados" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_78_1781317778.png" group-title="Variedades",tv conectados
 https://stmv4.voxtvhd.com.br/tvconectados/tvconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-conexao-celestial" tvg-name="tv conexão celestial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidohTn2DEtOxBacEc6RK6WD9EEI32UUrTl8T9XgZ-HKCBg5OCjhknKLkpvVWF_upbQAcdjevZyHfs1ZNyqn14mq62qrc_9WEcaO_-tsnyp5IeAiBtaij37XqKhrIr1FnNKBmWEDr4yHJOZmAgyhsYmro3iRWCg0_OWsFeTyTHLwNGXjaXeNCjkrVNHNHs/w200-h100/TV%20CONEX%C3%83O%20CELESTIAL.webp" group-title="Variedades",tv conexão celestial
@@ -879,8 +867,6 @@ https://video01.brascast.com/sergio7305/sergio7305/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-metropole-cariri" tvg-name="tv metropole cariri" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_102_1776977262.png" group-title="Variedades",tv metropole cariri
 https://stmv.jnbhost.com.br/tvmetropolecariri/tvmetropolecariri/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-metropoles" tvg-name="tv metropoles" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_328_1777280982.jpg" group-title="Variedades",tv metropoles
-https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-metropolitana-rio" tvg-name="tv metropolitana rio" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_463_1783204313.jpg" group-title="Variedades",tv metropolitana rio
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-mil-aleluia" tvg-name="tv mil aleluia" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_444_1781315850.png" group-title="Variedades",tv mil aleluia
@@ -927,8 +913,6 @@ https://video01.brascast.com/xavier4499/xavier4499/playlist.m3u8?hls_ctx=8vx8c42
 https://stmv6.voxtvhd.com.br/22240/22240/playlist.m3u8
 #EXTINF:-1 tvg-id="tvtemplosalomao" tvg-name="tv templo de salomão" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/f915ee34-1b3a-4925-858d-a531deb39780/tv_templo_de_salomao_150x150.jpeg" group-title="Variedades",tv templo de salomão
 https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/chunklist_f10cf743-f8d2-4b80-a665-d0dd319ef176.m3u8
-#EXTINF:-1 tvg-id="tv-tudo" tvg-name="tv tudo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767791728.png" group-title="Variedades",tv tudo
-https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-vive" tvg-name="tv vive" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_386_1780087982.jpg" group-title="Variedades",tv vive
 https://stmv1.voxtvhd.com.br/14650/14650/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-vr-gospel" tvg-name="tv vr gospel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_406_1781444487.jpg" group-title="Variedades",tv vr gospel

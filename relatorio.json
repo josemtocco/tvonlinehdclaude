@@ -1,23 +1,23 @@
 {
- "gerado_em": "2026-11-15T13:45:34Z",
- "atualizacao": 6,
+ "gerado_em": "2026-11-15T13:51:42Z",
+ "atualizacao": 7,
  "limite_falhas": 6,
  "catalogo_site": 580,
  "com_link": 580,
- "na_lista": 488,
- "tocando": 327,
- "em_falha": 161,
- "removidos": 92,
+ "na_lista": 480,
+ "tocando": 328,
+ "em_falha": 152,
+ "removidos": 100,
  "novos": 0,
  "fora_do_site": 0,
  "por_categoria": {
-  "Esportes": 59,
+  "Esportes": 58,
   "Infantil": 30,
   "Documentários": 20,
   "Filmes e Séries": 77,
-  "Notícias": 24,
+  "Notícias": 23,
   "Abertos": 80,
-  "Variedades": 198
+  "Variedades": 192
  },
  "detalhes_falha": [
   {
