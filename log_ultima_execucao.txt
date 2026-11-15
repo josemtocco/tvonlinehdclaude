@@ -1,0 +1,55 @@
+======================================================================
+ TV Online HD -> M3U  |  14/11/2026 22:13:55
+======================================================================
+[1/5] Baixando a pagina inicial...
+[2/5] Lendo as categorias do site...
+      categorias encontradas: Esportes, Infantil, Documentários, Filmes e Séries, Notícias, Abertos, Variedades
+      cards de canal na home: 580
+[3/5] Pedindo os links de transmissao de cada canal...
+      100/580 consultados...
+      200/580 consultados...
+      300/580 consultados...
+      400/580 consultados...
+      500/580 consultados...
+      580/580 consultados...
+      canais com link resolvido: 580 de 580
+      canais no catalogo: 580
+      canais com link direto .m3u8: 580
+
+[4/5] Validando transmissões (atualizacao #2)...
+      ffprobe disponível: não (só checagem HTTP)
+      50/580 testados (3s)
+      100/580 testados (5s)
+      150/580 testados (7s)
+      200/580 testados (10s)
+      250/580 testados (14s)
+      300/580 testados (17s)
+      350/580 testados (20s)
+      400/580 testados (22s)
+      450/580 testados (24s)
+      500/580 testados (25s)
+      550/580 testados (27s)
+      580/580 testados (40s)
+
+[5/5] Lista gerada
+----------------------------------------------------------------------
+Canais no site .............: 580
+Com link direto ...........: 580
+TOCANDO (na lista) ........: 476
+Em falha (mantidos) .......: 104  (removidos após 6 falhas)
+Removidos nesta rodada ....: 0
+Novos canais ..............: 0
+Fora do site (limpo) ......: 0
+Total na lista ............: 580 canais
+----------------------------------------------------------------------
+Canais por categoria:
+   Esportes               68
+   Infantil               37
+   Documentários          22
+   Filmes e Séries       102
+   Notícias               28
+   Abertos               102
+   Variedades            221
+----------------------------------------------------------------------
+Arquivo: tvonlinehd.m3u  (580 canais)
+Tempo total: 67s

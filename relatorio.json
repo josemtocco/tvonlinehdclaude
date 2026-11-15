@@ -1,0 +1,184 @@
+{
+ "gerado_em": "2026-11-15T01:15:02Z",
+ "atualizacao": 2,
+ "limite_falhas": 6,
+ "catalogo_site": 580,
+ "com_link": 580,
+ "na_lista": 580,
+ "tocando": 476,
+ "em_falha": 104,
+ "removidos": 0,
+ "novos": 0,
+ "fora_do_site": 0,
+ "por_categoria": {
+  "Esportes": 68,
+  "Infantil": 37,
+  "Documentários": 22,
+  "Filmes e Séries": 102,
+  "Notícias": 28,
+  "Abertos": 102,
+  "Variedades": 221
+ },
+ "detalhes_falha": [
+  {
+   "nome": "amazon prime",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "amazon prime 02",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "amc séries",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "tv aparecida",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "apple tv 01",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "apple tv 02",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "apple tv 03",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "apple tv 04",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "apple tv 05",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "apple tv 06",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "canal goat",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "canal off",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "canção nova",
+   "motivo": "HTTP 404"
+  },
+  {
+   "nome": "canção nova",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "cazetv 3",
+   "motivo": "HTTP 404"
+  },
+  {
+   "nome": "cazétv",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "cazétv 2",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "cazétv 3",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "cazétv 4",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "tv cultura",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "dazn",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "discovery home & health",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "disney plus 2",
+   "motivo": "HTTP 404"
+  },
+  {
+   "nome": "disney plus 3",
+   "motivo": "HTTP 404"
+  },
+  {
+   "nome": "disney+",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "disney+ 02",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "ge tv",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "globo espírito santo",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "globo minas",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "globoplay novelas",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "globo porto alegre",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "globo rio",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "globo são paulo",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "gloobinho",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "hbo signature",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "investigation discovery",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "jovem pan news",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "master chef",
+   "motivo": "HTTP 404"
+  },
+  {
+   "nome": "n sports",
+   "motivo": "HTTP sem resposta"
+  },
+  {
+   "nome": "novo tempo",
+   "motivo": "HTTP sem resposta"
+  }
+ ]
+}
