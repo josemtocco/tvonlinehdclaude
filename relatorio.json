@@ -1,23 +1,23 @@
 {
- "gerado_em": "2026-11-15T13:30:27Z",
- "atualizacao": 5,
+ "gerado_em": "2026-11-15T13:45:34Z",
+ "atualizacao": 6,
  "limite_falhas": 6,
  "catalogo_site": 580,
  "com_link": 580,
- "na_lista": 580,
+ "na_lista": 488,
  "tocando": 327,
- "em_falha": 253,
- "removidos": 0,
+ "em_falha": 161,
+ "removidos": 92,
  "novos": 0,
  "fora_do_site": 0,
  "por_categoria": {
-  "Esportes": 68,
-  "Infantil": 37,
-  "Documentários": 22,
-  "Filmes e Séries": 102,
-  "Notícias": 28,
-  "Abertos": 102,
-  "Variedades": 221
+  "Esportes": 59,
+  "Infantil": 30,
+  "Documentários": 20,
+  "Filmes e Séries": 77,
+  "Notícias": 24,
+  "Abertos": 80,
+  "Variedades": 198
  },
  "detalhes_falha": [
   {
@@ -73,20 +73,8 @@
    "motivo": "HTTP 403"
   },
   {
-   "nome": "amazon prime",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "amazon prime 02",
-   "motivo": "HTTP sem resposta"
-  },
-  {
    "nome": "amc",
    "motivo": "HTTP 403"
-  },
-  {
-   "nome": "amc séries",
-   "motivo": "HTTP sem resposta"
   },
   {
    "nome": "animal planet",
@@ -95,34 +83,6 @@
   {
    "nome": "aparecida",
    "motivo": "HTTP 403"
-  },
-  {
-   "nome": "tv aparecida",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "apple tv 01",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "apple tv 02",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "apple tv 03",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "apple tv 04",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "apple tv 05",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "apple tv 06",
-   "motivo": "HTTP sem resposta"
   },
   {
    "nome": "axn",
@@ -145,22 +105,6 @@
    "motivo": "HTTP 403"
   },
   {
-   "nome": "canal goat",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "canal off",
-   "motivo": "HTTP sem resposta"
-  },
-  {
-   "nome": "canção nova",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "canção nova",
-   "motivo": "HTTP sem resposta"
-  },
-  {
    "nome": "cartoon network",
    "motivo": "HTTP 403"
   },
@@ -177,7 +121,63 @@
    "motivo": "HTTP 403"
   },
   {
-   "nome": "cazetv 3",
+   "nome": "cinemax",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "cnn brasil",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "combate",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "cultura",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "discovery channel",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "discovery h&h",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "discovery id",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "discovery kids",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "discovery science",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "discovery theater",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "discovery turbo",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "discovery world",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "disney plus 1",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "espn",
+   "motivo": "HTTP 403"
+  },
+  {
+   "nome": "espn 2",
    "motivo": "HTTP 403"
   }
  ]
