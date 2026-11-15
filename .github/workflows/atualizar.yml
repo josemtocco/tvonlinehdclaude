@@ -1,1 +1,72 @@
+# Salve como .github/workflows/atualizar.yml
+name: Atualizar lista M3U (TV Online HD)
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 00h, 06h, 12h, 18h UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Nunca duas execuções ao mesmo tempo (evita "non-fast-forward")
+concurrency:
+  group: atualizar-m3u
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    # Padrão: servidor do GitHub (fora do Brasil).
+    # Para rodar no SEU computador (IP do Brasil de verdade): Settings > Secrets and
+    # variables > Actions > Variables > crie RUNNER_LABELS com  ["self-hosted"]
+    runs-on: ${{ fromJSON(vars.RUNNER_LABELS || '["ubuntu-latest"]') }}
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar ffmpeg (ffprobe)
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+
+      - name: Gerar lista e publicar
+        shell: bash
+        env:
+          # Secrets: Settings > Secrets and variables > Actions > Secrets
+          BR_IP_CLIENTE: ${{ secrets.BR_IP_CLIENTE }}      # seu IP, enviado nos cabeçalhos
+          BR_PROXY_URL: ${{ secrets.BR_PROXY_URL }}        # opcional: http://usuario:senha@host:porta
+          BR_IP_ESPERADO: ${{ secrets.BR_IP_ESPERADO }}    # opcional (com proxy de IP fixo)
+          # Variables (opcionais)
+          BR_PROXY_ESCOPO: ${{ vars.BR_PROXY_ESCOPO || 'tudo' }}
+          BR_ABORTAR_FORA_DO_BRASIL: ${{ vars.BR_ABORTAR_FORA_DO_BRASIL }}   # "1" = não conta falhas se a saída não for do Brasil
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for tentativa in 1 2 3 4 5; do
+            echo "== tentativa $tentativa =="
+
+            # Aborta (sem publicar) se a rede/proxy não estiver como o esperado
+            python atualizar_m3u.py || { echo "::error::Execução abortada. Lista anterior preservada."; exit 1; }
+
+            git add tvonlinehd.m3u tvonlinehd_completo.m3u estado_canais.json relatorio.json log_ultima_execucao.txt
+            if git diff --cached --quiet; then
+              echo "Sem mudanças."; exit 0
+            fi
+            git commit -m "Atualiza lista M3U ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            # Push recusado: descarta a cópia local (sem merge de JSON) e refaz em cima da versão nova
+            git fetch origin main
+            git reset --hard origin/main
+          done
+          echo "::error::Não consegui publicar após 5 tentativas."
+          exit 1
