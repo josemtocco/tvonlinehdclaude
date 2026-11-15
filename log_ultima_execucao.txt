@@ -1,6 +1,10 @@
 ======================================================================
- TV Online HD -> M3U  |  14/11/2026 22:13:55
+ TV Online HD -> M3U  |  15/11/2026 02:26:48
 ======================================================================
+[0/5] Rede: conexão direta (sem proxy)
+      IP de saída real: 52.x.x.198  país: US
+      BR_IP_CLIENTE ativo: cabeçalhos X-Forwarded-For/X-Real-IP enviados (não muda o IP real da conexão)
+      [aviso] a conexão NÃO sai do Brasil: canais com bloqueio regional vão aparecer como falha.
 [1/5] Baixando a pagina inicial...
 [2/5] Lendo as categorias do site...
       categorias encontradas: Esportes, Infantil, Documentários, Filmes e Séries, Notícias, Abertos, Variedades
@@ -16,27 +20,27 @@
       canais no catalogo: 580
       canais com link direto .m3u8: 580
 
-[4/5] Validando transmissões (atualizacao #2)...
-      ffprobe disponível: não (só checagem HTTP)
-      50/580 testados (3s)
-      100/580 testados (5s)
-      150/580 testados (7s)
-      200/580 testados (10s)
-      250/580 testados (14s)
-      300/580 testados (17s)
-      350/580 testados (20s)
-      400/580 testados (22s)
-      450/580 testados (24s)
-      500/580 testados (25s)
-      550/580 testados (27s)
-      580/580 testados (40s)
+[4/5] Validando transmissões (atualizacao #3)...
+      ffprobe disponível: sim
+      50/580 testados (0s)
+      100/580 testados (0s)
+      150/580 testados (0s)
+      200/580 testados (1s)
+      250/580 testados (9s)
+      300/580 testados (16s)
+      350/580 testados (21s)
+      400/580 testados (26s)
+      450/580 testados (35s)
+      500/580 testados (43s)
+      550/580 testados (48s)
+      580/580 testados (59s)
 
 [5/5] Lista gerada
 ----------------------------------------------------------------------
 Canais no site .............: 580
 Com link direto ...........: 580
-TOCANDO (na lista) ........: 476
-Em falha (mantidos) .......: 104  (removidos após 6 falhas)
+TOCANDO (na lista) ........: 326
+Em falha (mantidos) .......: 254  (removidos após 6 falhas)
 Removidos nesta rodada ....: 0
 Novos canais ..............: 0
 Fora do site (limpo) ......: 0
@@ -52,4 +56,4 @@ Canais por categoria:
    Variedades            221
 ----------------------------------------------------------------------
 Arquivo: tvonlinehd.m3u  (580 canais)
-Tempo total: 67s
+Tempo total: 66s
