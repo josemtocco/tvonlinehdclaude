@@ -1,68 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bandsports" tvg-name="band sports" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/bandsports.png" group-title="Esportes",band sports
-https://tody.s25-cloudfront-net.lat/tody/bandsports.m3u8
-#EXTINF:-1 tvg-id="barca-tv" tvg-name="barça tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73cde5990fa4d395e807a2780b68b333.webp" group-title="Esportes",barça tv
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb543e1e7b6c678e9dd43662cef340a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7356db80148b61299bce8c37683f03409a5e5afba358b1ebe35a4cd13ff3b71d55c77a46e19f43c8821da689865b9a5ed370f847ccc6f588d613d78ff3de986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a4ad3e03cfde542fc5809caa8a16ca5bfb5de504536e4c0542104a1e8b085b9415b2cba49c39bbf404ce39f277948895dd9372737da9d9953eca664a46e5d603fb84a98b97192bb7f30a4c810c73bbd28cfd5fd9b3c0d7d620b3db65cb79662e1e4bc12a7e31c3b554148acd5008ad69916076b41828f49c753358d9bdad3915e608a571254be34821b1d3a987d2c5df53df59f0b698b0d03917a68a80f7bd314bcf007dd93f6c94a7bb9d7cc47bf48eab601ddbf428a652e560fb6bd7d0a11022d9ebe285d704ac243e5c1c3ae225a57a2a49b8cb5395230301956039cf1a721cbfca7072956900368300e537df023d966d80c4c7a5eea16c1a30471c54b611aefa93b524d7fd4af958494ddde4ba575b19aaed94ef9fcfe0855669f0ae627872e54985d0c6be4daa6a4/53/1920x1080_5129264/index.m3u8
 #EXTINF:-1 tvg-id="caze-tv" tvg-name="cazétv" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/31d4b44d-27ef-4d31-8418-818bade76916/caze-tv.jpg" group-title="Esportes",cazétv
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="cazetv1" tvg-name="cazetv 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/caze1.png" group-title="Esportes",cazetv 1
-https://tody.s25-cloudfront-net.lat/tody/caze1.m3u8
-#EXTINF:-1 tvg-id="cazetv2" tvg-name="cazetv 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/caze2.png" group-title="Esportes",cazetv 2
-https://tody.s25-cloudfront-net.lat/tody/caze2.m3u8
-#EXTINF:-1 tvg-id="combate" tvg-name="combate" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/combate.png" group-title="Esportes",combate
-https://tody.s25-cloudfront-net.lat/tody/combate.m3u8
 #EXTINF:-1 tvg-id="drive-channel-tv" tvg-name="drive channel tv" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/f80a9ad4-4f12-4db8-b526-e9530dc8f476/drive-channel-tv.png" group-title="Esportes",drive channel tv
 https://stmv1.voxplayer.com.br/drivechannel/drivechannel/chunklist_w330635911.m3u8
-#EXTINF:-1 tvg-id="espn" tvg-name="espn" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn.png" group-title="Esportes",espn
-https://tody.s25-cloudfront-net.lat/tody/espn.m3u8
-#EXTINF:-1 tvg-id="espn2" tvg-name="espn 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn2.png" group-title="Esportes",espn 2
-https://tody.s25-cloudfront-net.lat/tody/espn2.m3u8
-#EXTINF:-1 tvg-id="espn3" tvg-name="espn 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn3.png" group-title="Esportes",espn 3
-https://tody.s25-cloudfront-net.lat/tody/espn3.m3u8
-#EXTINF:-1 tvg-id="espn4" tvg-name="espn 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn4.png" group-title="Esportes",espn 4
-https://tody.s25-cloudfront-net.lat/tody/espn4.m3u8
-#EXTINF:-1 tvg-id="espn5" tvg-name="espn 5" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn5.png" group-title="Esportes",espn 5
-https://tody.s25-cloudfront-net.lat/tody/espn5.m3u8
-#EXTINF:-1 tvg-id="espn6" tvg-name="espn 6" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn6.png" group-title="Esportes",espn 6
-https://tody.s25-cloudfront-net.lat/tody/espn6.m3u8
-#EXTINF:-1 tvg-id="fuel-tv-brasil" tvg-name="fuel tv brasil" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/3939019d-6d0c-49e8-9f24-48741236b36e/fuel-tv-brasil.png" group-title="Esportes",fuel tv brasil
-https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/ts-us-w2-n2/playlist/amg01074-fueltv-fueltvbr-samsungbr/cb543e1e7b6c608d84c83f63cef043a4f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7353db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a0af1c56953145f5964798d61cb989dd0e834ad371f1099c93a68ace19d680937eaf06b0370f0a272c988220c0fbbad7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d0c5411af1204bcde34e6035b5e9a885e87747d5f7271088af114fa98c7d4b46c62de8233e349fb7ac7ee19342c6e673d7f3017749888fa94296bbd44fc971195ef19d9fd33877336f6e01108f5ea3d55eda26e248a9db1f2e66ea25c78778cb9cd0523c6300d3ce0e945b2cb0d58f8cc81d7be4545b0bb82e8900455bc53a3a28be6de1cc6825c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c7c4d5e72ddeb295c65288d15aa8384b1373a01eaf6dff78f066b507744044caee6e03fcadb91674d58911d7612017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce85534776595dabe9288d0de36dc52daccef363c345f77c75d202269d6f6c019ca31457a754a934d0367b8145156e585c386c8d13f2efde562f0d6727dc792f71e352c7de8bd01c2222a45df/111/1920x1080_4716800/index.m3u8
 #EXTINF:-1 tvg-id="mavtv-brasil" tvg-name="mavtv brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS7MlSNOTzkzc6X4aLBSs2ppt9KEcZKAAEN5qC3uoy0QFphzwIbW5q7_TgkLtEaHhjlPeHIe3H0_Ms0a_BD3szF3ExljeMJaUwhFD66Tqmyv8ffvSVuPX3xEzybMjmBouyGOU0BUIApGcjnV5rTFnJn7rI-VoYpmAQqD0sUGxO5fWlfbehBQlh812woWk/w200-h100/MAVTV%20BRASIL.webp" group-title="Esportes",mavtv brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="premiere1" tvg-name="premiere 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere.png" group-title="Esportes",premiere 1
-https://tody.s25-cloudfront-net.lat/tody/premiere.m3u8
-#EXTINF:-1 tvg-id="premiere2" tvg-name="premiere 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere2.png" group-title="Esportes",premiere 2
-https://tody.s25-cloudfront-net.lat/tody/premiere2.m3u8
-#EXTINF:-1 tvg-id="premiere3" tvg-name="premiere 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere3.png" group-title="Esportes",premiere 3
-https://tody.s25-cloudfront-net.lat/tody/premiere3.m3u8
-#EXTINF:-1 tvg-id="premiere4" tvg-name="premiere 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere4.png" group-title="Esportes",premiere 4
-https://tody.s25-cloudfront-net.lat/tody/premiere4.m3u8
-#EXTINF:-1 tvg-id="premiere5" tvg-name="premiere 5" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere5.png" group-title="Esportes",premiere 5
-https://tody.s25-cloudfront-net.lat/tody/premiere5.m3u8
-#EXTINF:-1 tvg-id="ptbenficatv" tvg-name="pt - benfica tv" group-title="Esportes",pt - benfica tv
-https://tody.s25-cloudfront-net.lat/tody/pt_benficatv.m3u8
-#EXTINF:-1 tvg-id="ptcanal11" tvg-name="pt - canal 11" group-title="Esportes",pt - canal 11
-https://tody.s25-cloudfront-net.lat/tody/pt_canal11.m3u8
-#EXTINF:-1 tvg-id="pteleven1" tvg-name="pt - eleven 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_eleven1.png" group-title="Esportes",pt - eleven 1
-https://tody.s25-cloudfront-net.lat/tody/pt_eleven1.m3u8
-#EXTINF:-1 tvg-id="pteleven2" tvg-name="pt - eleven 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_eleven2.png" group-title="Esportes",pt - eleven 2
-https://tody.s25-cloudfront-net.lat/tody/pt_eleven2.m3u8
-#EXTINF:-1 tvg-id="pteleven3" tvg-name="pt - eleven 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_eleven3.png" group-title="Esportes",pt - eleven 3
-https://tody.s25-cloudfront-net.lat/tody/pt_eleven3.m3u8
-#EXTINF:-1 tvg-id="ptsporttv1" tvg-name="pt - sporttv 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv1.png" group-title="Esportes",pt - sporttv 1
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv1.m3u8
-#EXTINF:-1 tvg-id="ptsporttv2" tvg-name="pt - sporttv 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv2.png" group-title="Esportes",pt - sporttv 2
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv2.m3u8
-#EXTINF:-1 tvg-id="ptsporttv3" tvg-name="pt - sporttv 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv3.png" group-title="Esportes",pt - sporttv 3
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv3.m3u8
-#EXTINF:-1 tvg-id="ptsporttv4" tvg-name="pt - sporttv 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv4.png" group-title="Esportes",pt - sporttv 4
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv4.m3u8
-#EXTINF:-1 tvg-id="ptsporttv5" tvg-name="pt - sporttv 5" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv5.png" group-title="Esportes",pt - sporttv 5
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv5.m3u8
-#EXTINF:-1 tvg-id="ptsporttv6" tvg-name="pt - sporttv 6" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv6.png" group-title="Esportes",pt - sporttv 6
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv6.m3u8
-#EXTINF:-1 tvg-id="ptsporttv7" tvg-name="pt - sporttv 7" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv7.png" group-title="Esportes",pt - sporttv 7
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv7.m3u8
 #EXTINF:-1 tvg-id="racer-brasil" tvg-name="racer brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqANY7-1eixazzkFExnqa_ZzCizK2aiqbQ40BBVna26AFDqaKz6m-DjqTrCnkNyT1GDaacRKTr683I8dLsABs-rcjtJ-UMN3DhokypDKQtLDPI_I8qIoLzelNPA1_oRroixMyRr2OH8TNOAwZoLviMhRJJZ_wvJUOYOu0CIjhXSWFObjukr2a5B0Fm2I/w200-h100/RACER%20BRASIL.webp" group-title="Esportes",racer brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="real-madrid-tv" tvg-name="real madrid tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c871bb969e8076f811e7f7522ba7e545.webp" group-title="Esportes",real madrid tv
@@ -91,64 +33,24 @@ https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 tvg-id="sft-combat" tvg-name="sft combat" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/cf914d17-f337-4eb6-a601-0c11b1e9ecff/sft-combat.png" group-title="Esportes",sft combat
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
-#EXTINF:-1 tvg-id="sportv" tvg-name="sportv" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportv.png" group-title="Esportes",sportv
-https://tody.s25-cloudfront-net.lat/tody/sportv.m3u8
-#EXTINF:-1 tvg-id="sportv2" tvg-name="sportv 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportv2.png" group-title="Esportes",sportv 2
-https://tody.s25-cloudfront-net.lat/tody/sportv2.m3u8
-#EXTINF:-1 tvg-id="sportv3" tvg-name="sportv 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportv3.png" group-title="Esportes",sportv 3
-https://tody.s25-cloudfront-net.lat/tody/sportv3.m3u8
-#EXTINF:-1 tvg-id="sportynet" tvg-name="sportynet" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportynet.png" group-title="Esportes",sportynet
-https://tody.s25-cloudfront-net.lat/tody/sportynet.m3u8
-#EXTINF:-1 tvg-id="sportynet1" tvg-name="sportynet+ 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportynetplus1.png" group-title="Esportes",sportynet+ 1
-https://tody.s25-cloudfront-net.lat/tody/sportynetplus1.m3u8
-#EXTINF:-1 tvg-id="sportynet2" tvg-name="sportynet+ 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportynetplus2.png" group-title="Esportes",sportynet+ 2
-https://tody.s25-cloudfront-net.lat/tody/sportynetplus2.m3u8
-#EXTINF:-1 tvg-id="sportynet3" tvg-name="sportynet+ 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportynetplus3.png" group-title="Esportes",sportynet+ 3
-https://tody.s25-cloudfront-net.lat/tody/sportynetplus3.m3u8
-#EXTINF:-1 tvg-id="ufcfightpass" tvg-name="ufc fight pass" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/ufcfightpass.png" group-title="Esportes",ufc fight pass
-https://tody.s25-cloudfront-net.lat/tody/ufcfightpass.m3u8
 #EXTINF:-1 tvg-id="unique-sports-1" tvg-name="unique sports 1" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/45cb9354-cbba-4e3b-bd56-902f455be356/unique-sports-1.png" group-title="Esportes",unique sports 1
 https://pop2.uniquetv.com.br/hls/uniquesports1.m3u8
 #EXTINF:-1 tvg-id="unique-sports-2" tvg-name="unique sports 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicgCXeu4edRmAn8Sv-4Dd5BLw0m-h2cGCpCW0uH3S53ceAR2XBP9QDiTdy4zG1Q5VZRPcCXjCyC7vlAXjZe_-Wt7AHC9EUQLJ3MVFfkhmQa4hGKxxRmaa3DdGEIHlUWuKB-MYxqyqVhcr7OBBmDCSvPDxAJVRuaMLbqQteRKRe4NF6ESXWBSbo9H3Wz6Q/w200-h100/UNIQUE%20SPORTS%202.webp" group-title="Esportes",unique sports 2
 https://pop2.uniquetv.com.br/hls/uniquesports2.m3u8
 #EXTINF:-1 tvg-id="unique-sports-3" tvg-name="unique sports 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEtySYVXgDU0EkP6FCKy8q3aK_ylTxjeKhKvWxHagrfSG6YJXR4F9HUUdk7z9OceKNJ9kHEoTeYI8KnpKpNwEnzf94X9klwEF-xxY884qAk_kwUA8k0XDzZoWkB3zxua3Unvpqnx1LPfAjQ7ZOkMgRxn9C11Lq77d_YEw0x-LVBCHy56Nm3xYgmjV1yEw/s200/UNIQUE%20SPORTS%203.webp" group-title="Esportes",unique sports 3
 https://pop2.uniquetv.com.br/hls/uniquesports3.m3u8
-#EXTINF:-1 tvg-id="xsports" tvg-name="xsports" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/xsports.png" group-title="Esportes",xsports
-https://tody.s25-cloudfront-net.lat/tody/xsports.m3u8
-#EXTINF:-1 tvg-id="24hchaves" tvg-name="24h chaves" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_chaves.png" group-title="Infantil",24h chaves
-https://tody.s25-cloudfront-net.lat/tody/24h_chaves.m3u8
-#EXTINF:-1 tvg-id="24hdragonballz" tvg-name="24h dragon ball z" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_dragonball.png" group-title="Infantil",24h dragon ball z
-https://tody.s25-cloudfront-net.lat/tody/24h_dragonball.m3u8
-#EXTINF:-1 tvg-id="24hfriends" tvg-name="24h friends" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_friends.png" group-title="Infantil",24h friends
-https://tody.s25-cloudfront-net.lat/tody/24h_friends.m3u8
-#EXTINF:-1 tvg-id="24hnarutoclu00e1ssico" tvg-name="24h naruto clássico" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_naruto.png" group-title="Infantil",24h naruto clássico
-https://tody.s25-cloudfront-net.lat/tody/24h_naruto.m3u8
-#EXTINF:-1 tvg-id="24hossimpsons" tvg-name="24h os simpsons" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_simpsons.png" group-title="Infantil",24h os simpsons
-https://tody.s25-cloudfront-net.lat/tody/24h_simpsons.m3u8
-#EXTINF:-1 tvg-id="24hpicapau" tvg-name="24h pica pau" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_picapau.png" group-title="Infantil",24h pica pau
-https://tody.s25-cloudfront-net.lat/tody/24h_picapau.m3u8
-#EXTINF:-1 tvg-id="24htodomundoodeiaocris" tvg-name="24h todo mundo odeia o cris" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_odeiachris.png" group-title="Infantil",24h todo mundo odeia o cris
-https://tody.s25-cloudfront-net.lat/tody/24h_odeiachris.m3u8
 #EXTINF:-1 tvg-id="3abnkids" tvg-name="3abn kids network" group-title="Infantil",3abn kids network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="adesso-tv" tvg-name="adesso tv" tvg-logo="https://televisao.tv/images/adesso-tv.webp" group-title="Infantil",adesso tv
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:-1 tvg-id="anime-channel-tv" tvg-name="anime channel tv" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/8399dafb-7be9-415c-8739-9c39c6941a88/anime_channel_150x150.jpg" group-title="Infantil",anime channel tv
 https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w488292470.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoon network" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cartoonnetwork.png" group-title="Infantil",cartoon network
-https://tody.s25-cloudfront-net.lat/tody/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="cartoonito" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cartoonito.png" group-title="Infantil",cartoonito
-https://tody.s25-cloudfront-net.lat/tody/cartoonito.m3u8
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="discovery kids" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoverykids.png" group-title="Infantil",discovery kids
-https://tody.s25-cloudfront-net.lat/tody/discoverykids.m3u8
 #EXTINF:-1 tvg-id="extremakids" tvg-name="extrema kids tv" group-title="Infantil",extrema kids tv
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="fox-kids-f-rede-criancas" tvg-name="fox kids f. rede crianças" tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/S6SLTPO2H7V-g3L2y8m4lK4R9ZULyXQx.png" group-title="Infantil",fox kids f. rede crianças
 https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w412316835.m3u8
 #EXTINF:-1 tvg-id="geekdot" tvg-name="geekdot" tvg-logo="https://static.wixstatic.com/media/bc26fa_b77289aa658644f9addf4b415f5e433a~mv2.jpg/v1/fill/w_204,h_184,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/geek%20dot.jpg" group-title="Infantil",geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="gloob" tvg-name="gloob" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/gloob.png" group-title="Infantil",gloob
-https://tody.s25-cloudfront-net.lat/tody/gloob.m3u8
 #EXTINF:-1 tvg-id="gospelcartoon" tvg-name="gospel cartoon" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/bc3709fa-d651-4bf0-b3c3-d62555f96779/gospel_cartoon_150x150.png" group-title="Infantil",gospel cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="jetsons-tv" tvg-name="jetsons tv" tvg-logo="https://televisao.tv/images/jetsons-tv.webp" group-title="Infantil",jetsons tv
@@ -157,8 +59,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="nbx-tv-kids" tvg-name="nbx tv kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5UwnUy0UVuh3MfW4NsZyIfhqlzD0ImDuBwJOp7rOJMvohdJQZJmmfXW-EhOLlOysw4a3UCvQ2K1gSExWithWA87eiKwyvPJSGXpeXfLd4JHD8ZZqYwH5Q2Wp9fenWDKncIvEXB5a3TGh3gLyjdn_cZOkYsDG1N7PYWrX2FZ5-naBT42ihjAwyZzHHQaU/w200-h100/NBX%20TV%20KIDS.webp" group-title="Infantil",nbx tv kids
 https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=51401p08
-#EXTINF:-1 tvg-id="nickonline" tvg-name="nickonline" tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/SbIbF2AYHTFNWOSeki9jmPo7ImmbrZUU.png" group-title="Infantil",nickonline
-https://x1colegal.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="nicktoons brasil" group-title="Infantil",nicktoons brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="otaku-sign-tv" tvg-name="otaku sign tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_116_1767831476.png" group-title="Infantil",otaku sign tv
@@ -175,56 +75,22 @@ https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=323409ok
 https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=5k40b276
 #EXTINF:-1 tvg-id="tv-mana-2" tvg-name="tv maná 2" tvg-logo="https://televisao.tv/images/tv-mana-2.webp" group-title="Infantil",tv maná 2
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1005453751_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="animal planet" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/animalplanet.png" group-title="Documentários",animal planet
-https://tody.s25-cloudfront-net.lat/tody/animalplanet.m3u8
 #EXTINF:-1 tvg-id="canal-25" tvg-name="canal 25" tvg-logo="https://televisao.tv/images/canal-25.webp" group-title="Documentários",canal 25
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="discovery channel" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoverychannel.png" group-title="Documentários",discovery channel
-https://tody.s25-cloudfront-net.lat/tody/discoverychannel.m3u8
-#EXTINF:-1 tvg-id="discoveryhh" tvg-name="discovery h&h" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryhh.png" group-title="Documentários",discovery h&h
-https://tody.s25-cloudfront-net.lat/tody/discoveryhh.m3u8
-#EXTINF:-1 tvg-id="discoveryid" tvg-name="discovery id" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryid.png" group-title="Documentários",discovery id
-https://tody.s25-cloudfront-net.lat/tody/discoveryid.m3u8
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="discovery science" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryscience.png" group-title="Documentários",discovery science
-https://tody.s25-cloudfront-net.lat/tody/discoveryscience.m3u8
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="discovery theater" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoverytheather.png" group-title="Documentários",discovery theater
-https://tody.s25-cloudfront-net.lat/tody/discoverytheather.m3u8
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="discovery turbo" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryturbo.png" group-title="Documentários",discovery turbo
-https://tody.s25-cloudfront-net.lat/tody/discoveryturbo.m3u8
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="discovery world" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryworld.png" group-title="Documentários",discovery world
-https://tody.s25-cloudfront-net.lat/tody/discoveryworld.m3u8
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="food network" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/foodnetwork.png" group-title="Documentários",food network
-https://tody.s25-cloudfront-net.lat/tody/foodnetwork.m3u8
 #EXTINF:-1 tvg-id="hardcore-pawn" tvg-name="hardcore pawn ao vivo — negociações, conflitos e loja de penhores" tvg-logo="https://televisao.tv/images/hardcore-pawn.webp" group-title="Documentários",hardcore pawn ao vivo — negociações, conflitos e loja de penhores
 https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
-#EXTINF:-1 tvg-id="hgtv" tvg-name="hgtv" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hgtv.png" group-title="Documentários",hgtv
-https://tody.s25-cloudfront-net.lat/tody/hgtv.m3u8
-#EXTINF:-1 tvg-id="history" tvg-name="history" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/history.png" group-title="Documentários",history
-https://tody.s25-cloudfront-net.lat/tody/history.m3u8
-#EXTINF:-1 tvg-id="history2" tvg-name="history 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/history2.png" group-title="Documentários",history 2
-https://tody.s25-cloudfront-net.lat/tody/history2.m3u8
 #EXTINF:-1 tvg-id="nature-time-brasil" tvg-name="nature time brasil ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/76c93a8c-9f30-4c4c-9767-d8e389641ff9/nature_time_150x150.jpg" group-title="Documentários",nature time brasil ao vivo
 https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
 #EXTINF:-1 tvg-id="rs-tv" tvg-name="rs tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767986184.png" group-title="Documentários",rs tv
 https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
-#EXTINF:-1 tvg-id="tlc" tvg-name="tlc" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tlc.png" group-title="Documentários",tlc
-https://tody.s25-cloudfront-net.lat/tody/tlc.m3u8
 #EXTINF:-1 tvg-id="tv-agro-e-nosso" tvg-name="tv agro é nosso" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WWtn5DoK5UGaqONDq2QH9cDhlw8C9A6jxfUsENM2EJamzRMI2yEbd9mBXMQUOgA0FAt5GcI2tMjY5w46C-uIFqtmX39u-tK5nKskhWS9g_T5hopeEdGpnF7Pdzcj0CpkwplBMhy2BxNCRlie2uC8QwgeeLif3Uzz3oMOv5jinwgAHAjHMSUT6p4J9cQ/w200-h100/TV%20AGRO%20%C3%89%20NOSSO.webp" group-title="Documentários",tv agro é nosso
 https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w149846283.m3u8
 #EXTINF:-1 tvg-id="tv-historia" tvg-name="tv história" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRoEKrvxwCzF_JbSET1bJOQkECMLwdC328E29OrhM7Q&s=10" group-title="Documentários",tv história
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w770728565.m3u8
-#EXTINF:-1 tvg-id="wildearth" tvg-name="wildearth" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioHkpbjQxq1NlB0ZZ7sgm5IJQmtDxj1istOy1chf9cnIW2il8A1P8LXjRXsMTjjlF3Psg0wrPVRGGomM69bmv2Un3amXt_9dI0BW9goKrImh_gMnrKJEeQgdmm0y2Kc17K9rdDJ-y3DlDNzR2PLRhcdcw9xwsvkoW-yW2NvcO5KyTIv6R2OGhHXiJ0/s200/WILDEARTH.jpg" group-title="Documentários",wildearth
-https://wildearth-ono.amagi.tv/ts-us-w2-n1/playlist/amg01290-wildearth-oando/cb573e1e7b6c608d84c83f60cef24282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dd6ebfb102488b2f57f38b45c1821fee89d346cf4a8e25ec159cc4f196da468a838c36f801e1315f0b242fcad329a12e3cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3ec8577e6c23335083d15a7332acedaf99b9415b2cba49c39bbf404ce39f277948895dd9372737da9aa171d49445c6e671c2dc036c70de7d9c9094e523964cde88487292e054d24c634366160b855ceda96cd416ed79bdc21c1bfb2c2eb0b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137586237930bb49d9aa1440806ede5c4b195006f496a4112298fe5a821cedc8e7953468f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a9cd5670536f84c7a28e81c2b82d9876d0ddf22a203d4d19d31601216b93fbcd6ef4364f716d4ec2684046ae0c4e4dfa9fa8b179e1b65e0ed0cc6051d40a5b89d00e656adefc04e928be/4/1920x1080_4716800/index.m3u8
-#EXTINF:-1 tvg-id="adrenalina-pura-tv" tvg-name="adrenalina pura tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQY1uaUKr_nC3mvgp9QGiGE-Kx_X-opoYvx6249_jjEg&s=10" group-title="Filmes e Séries",adrenalina pura tv
-https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="amc" tvg-name="amc" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/amc.png" group-title="Filmes e Séries",amc
-https://tody.s25-cloudfront-net.lat/tody/amc.m3u8
 #EXTINF:-1 tvg-id="awtv" tvg-name="awtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7jzzdKo2FqfVHUiwgJZG-Cg5dqG1Es9wtr7wRPwWSw&s" group-title="Filmes e Séries",awtv
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="awtv-streaming-ao-vivo" tvg-name="awtv streaming ao vivo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_59_1781318709.png" group-title="Filmes e Séries",awtv streaming ao vivo
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="axn" tvg-name="axn" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/axn.png" group-title="Filmes e Séries",axn
-https://tody.s25-cloudfront-net.lat/tody/axn.m3u8
 #EXTINF:-1 tvg-id="tv-nova-juarez" tvg-name="canal 2 - tv nova juarez ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/a342b9fb-3f49-4b72-b059-cea5620d1319/canal_2_nova_juarez_150x150.jpg" group-title="Filmes e Séries",canal 2 - tv nova juarez ao vivo
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-series-classic" tvg-name="canal séries classic" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767792150.png" group-title="Filmes e Séries",canal séries classic
@@ -235,66 +101,24 @@ https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="cinebrasil-tv" tvg-name="cinebrasil tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvMzA-S89HwNx-nAetn2R8Ba42JE-WHlYYfeexFTUMw&s=10" group-title="Filmes e Séries",cinebrasil tv
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/chunklist_w840814520.m3u8
-#EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cinemax.png" group-title="Filmes e Séries",cinemax
-https://tody.s25-cloudfront-net.lat/tody/cinemax.m3u8
 #EXTINF:-1 tvg-id="classique" tvg-name="classique tv séries 1 ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/517d1496-8526-4dc6-bff3-78097b30de8e/classique-tv_150x150.jpg" group-title="Filmes e Séries",classique tv séries 1 ao vivo
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="clouding-tv" tvg-name="clouding tv" tvg-logo="https://televisao.tv/images/clouding-tv.webp" group-title="Filmes e Séries",clouding tv
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1660153225.m3u8
 #EXTINF:-1 tvg-id="comedy-club" tvg-name="comedy club" tvg-logo="https://televisao.tv/images/comedy-club.webp" group-title="Filmes e Séries",comedy club
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
-#EXTINF:-1 tvg-id="disneyplus1" tvg-name="disney plus 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/disneyplus1.png" group-title="Filmes e Séries",disney plus 1
-https://tody.s25-cloudfront-net.lat/tody/disneyplus1.m3u8
-#EXTINF:-1 tvg-id="filmelier-tv" tvg-name="filmelier tv ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/1b05cdd8-bf67-4740-8258-7a0e8892dcc0/filmeliertv_150x150.jpg" group-title="Filmes e Séries",filmelier tv ao vivo
-https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="hbo" tvg-name="hbo" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbo.png" group-title="Filmes e Séries",hbo
-https://tody.s25-cloudfront-net.lat/tody/hbo.m3u8
-#EXTINF:-1 tvg-id="hbo2" tvg-name="hbo 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbo2.png" group-title="Filmes e Séries",hbo 2
-https://tody.s25-cloudfront-net.lat/tody/hbo2.m3u8
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="hbo family" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbofamily.png" group-title="Filmes e Séries",hbo family
-https://tody.s25-cloudfront-net.lat/tody/hbofamily.m3u8
-#EXTINF:-1 tvg-id="hbomundi" tvg-name="hbo mundi" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbomundi.png" group-title="Filmes e Séries",hbo mundi
-https://tody.s25-cloudfront-net.lat/tody/hbomundi.m3u8
-#EXTINF:-1 tvg-id="hboplus" tvg-name="hbo plus" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hboplus.png" group-title="Filmes e Séries",hbo plus
-https://tody.s25-cloudfront-net.lat/tody/hboplus.m3u8
-#EXTINF:-1 tvg-id="hbopop" tvg-name="hbo pop" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbopop.png" group-title="Filmes e Séries",hbo pop
-https://tody.s25-cloudfront-net.lat/tody/hbopop.m3u8
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="hbo xtreme" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hboxtreme.png" group-title="Filmes e Séries",hbo xtreme
-https://tody.s25-cloudfront-net.lat/tody/hboxtreme.m3u8
 #EXTINF:-1 tvg-id="ke-tv-filmes" tvg-name="ke tv filmes online" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/823baac6-bc67-40a4-8b2c-1b6929ff437f/ke_tv_filmes_150x150.png" group-title="Filmes e Séries",ke tv filmes online
 https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
-#EXTINF:-1 tvg-id="max1" tvg-name="max - 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/max1.png" group-title="Filmes e Séries",max - 1
-https://tody.s25-cloudfront-net.lat/tody/max1.m3u8
-#EXTINF:-1 tvg-id="max2" tvg-name="max - 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/max2.png" group-title="Filmes e Séries",max - 2
-https://tody.s25-cloudfront-net.lat/tody/max2.m3u8
-#EXTINF:-1 tvg-id="max3" tvg-name="max - 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/max3.png" group-title="Filmes e Séries",max - 3
-https://tody.s25-cloudfront-net.lat/tody/max3.m3u8
 #EXTINF:-1 tvg-id="mega-one-tv" tvg-name="mega one tv — filmes, séries e documentários online" tvg-logo="https://televisao.tv/images/mega-one-tv.webp" group-title="Filmes e Séries",mega one tv — filmes, séries e documentários online
 https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
-#EXTINF:-1 tvg-id="megapix" tvg-name="megapix" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/megapix.png" group-title="Filmes e Séries",megapix
-https://tody.s25-cloudfront-net.lat/tody/megapix.m3u8
 #EXTINF:-1 tvg-id="miami-vice" tvg-name="miami vice" tvg-logo="https://televisao.tv/images/miami-vice.webp" group-title="Filmes e Séries",miami vice
 https://video05.logicahost.com.br/miamivice/miamivice/chunklist_w782102961.m3u8
 #EXTINF:-1 tvg-id="mr-bean" tvg-name="mr bean ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/307bd214-a3d0-4c2d-b501-5a5f09a2ea68/mr_bean_series_150x150.jpg" group-title="Filmes e Séries",mr bean ao vivo
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/1080p-cc-pt/index.m3u8
-#EXTINF:-1 tvg-id="mtv" tvg-name="mtv" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/mtv.png" group-title="Filmes e Séries",mtv
-https://tody.s25-cloudfront-net.lat/tody/mtv.m3u8
 #EXTINF:-1 tvg-id="nois-paulistas" tvg-name="nois paulistas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_562_1788317334.png" group-title="Filmes e Séries",nois paulistas
 https://stmv3.voxtvhd.com.br/tvrtv/tvrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="os-detetives" tvg-name="os detetives" tvg-logo="https://televisao.tv/images/os-detetives.webp" group-title="Filmes e Séries",os detetives
 https://video11.logicahost.com.br/detetives/detetives/chunklist_w711519238.m3u8
-#EXTINF:-1 tvg-id="paramountplus" tvg-name="paramount plus" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/paramountplus.png" group-title="Filmes e Séries",paramount plus
-https://tody.s25-cloudfront-net.lat/tody/paramountplus.m3u8
-#EXTINF:-1 tvg-id="paramountplus2" tvg-name="paramount plus 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/paramountplus2.png" group-title="Filmes e Séries",paramount plus 2
-https://tody.s25-cloudfront-net.lat/tody/paramountplus2.m3u8
-#EXTINF:-1 tvg-id="primevideo" tvg-name="prime video" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/primevideo.png" group-title="Filmes e Séries",prime video
-https://tody.s25-cloudfront-net.lat/tody/primevideo.m3u8
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="prime video 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/primevideo2.png" group-title="Filmes e Séries",prime video 2
-https://tody.s25-cloudfront-net.lat/tody/primevideo2.m3u8
-#EXTINF:-1 tvg-id="rbti-movies" tvg-name="rbti movies" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785969925.png" group-title="Filmes e Séries",rbti movies
-https://tv.rbti.tv.br/rbti2/index.m3u8
-#EXTINF:-1 tvg-id="rbti-tv" tvg-name="rbti+tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKRnU-RaYFPSDCC-cD-xpDe7MHn0d1j8Ru8xDoZwCSg&s" group-title="Filmes e Séries",rbti+tv
-https://tv.rbti.tv.br/rbti1/index.m3u8
 #EXTINF:-1 tvg-id="rede-istv" tvg-name="rede istv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_133_1767831268.png" group-title="Filmes e Séries",rede istv
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 tvg-id="reviva-tv" tvg-name="reviva tv" tvg-logo="https://televisao.tv/images/reviva-tv.webp" group-title="Filmes e Séries",reviva tv
@@ -317,30 +141,10 @@ https://video01.brascast.com/tv411747/tv411747/playlist.m3u8
 https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=d9829o73
 #EXTINF:-1 tvg-id="sessao-trash" tvg-name="sessão trash" tvg-logo="https://televisao.tv/images/sessao-trash.webp" group-title="Filmes e Séries",sessão trash
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="sonychannel" tvg-name="sony channel" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sonychannel.png" group-title="Filmes e Séries",sony channel
-https://tody.s25-cloudfront-net.lat/tody/sonychannel.m3u8
 #EXTINF:-1 tvg-id="sony-one-cinema" tvg-name="sony one cinema ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/3654e348-7d1b-44ef-abd2-27dc14ea8c61/sony_one_150x150.png" group-title="Filmes e Séries",sony one cinema ao vivo
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="sony-one-shark-tank" tvg-name="sony one shark tank brasil ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/b33f0739-e82e-4230-bc6f-eb2edc277618/sony_one_shark_150x150.png" group-title="Filmes e Séries",sony one shark tank brasil ao vivo
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="space" tvg-name="space" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/space.png" group-title="Filmes e Séries",space
-https://tody.s25-cloudfront-net.lat/tody/space.m3u8
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="studio universal" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/studiouniversal.png" group-title="Filmes e Séries",studio universal
-https://tody.s25-cloudfront-net.lat/tody/studiouniversal.m3u8
-#EXTINF:-1 tvg-id="tcm" tvg-name="tcm" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tcm.png" group-title="Filmes e Séries",tcm
-https://tody.s25-cloudfront-net.lat/tody/tcm.m3u8
-#EXTINF:-1 tvg-id="telecineaction" tvg-name="telecine action" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecineaction.png" group-title="Filmes e Séries",telecine action
-https://tody.s25-cloudfront-net.lat/tody/telecineaction.m3u8
-#EXTINF:-1 tvg-id="telecinecult" tvg-name="telecine cult" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinecult.png" group-title="Filmes e Séries",telecine cult
-https://tody.s25-cloudfront-net.lat/tody/telecinecult.m3u8
-#EXTINF:-1 tvg-id="telecinefun" tvg-name="telecine fun" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinefun.png" group-title="Filmes e Séries",telecine fun
-https://tody.s25-cloudfront-net.lat/tody/telecinefun.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="telecine pipoca" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinepipoca.png" group-title="Filmes e Séries",telecine pipoca
-https://tody.s25-cloudfront-net.lat/tody/telecinepipoca.m3u8
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="telecine premium" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinepremium.png" group-title="Filmes e Séries",telecine premium
-https://tody.s25-cloudfront-net.lat/tody/telecinepremium.m3u8
-#EXTINF:-1 tvg-id="telecinetouch" tvg-name="telecine touch" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinetouch.png" group-title="Filmes e Séries",telecine touch
-https://tody.s25-cloudfront-net.lat/tody/telecinetouch.m3u8
 #EXTINF:-1 tvg-id="tv-channel-network" tvg-name="tv channel network" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_121_1767830546.jpg" group-title="Filmes e Séries",tv channel network
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-id="tvchannel-network" tvg-name="tv channel network ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/a110f126-413e-44f4-a20f-006cd49a593c/tv_channel_network_150x150.png" group-title="Filmes e Séries",tv channel network ao vivo
@@ -359,36 +163,24 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8
 #EXTINF:-1 tvg-id="tvna-filmes" tvg-name="tvna filmes" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_75_1781318006.png" group-title="Filmes e Séries",tvna filmes
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
-#EXTINF:-1 tvg-id="universal" tvg-name="universal" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/universaltv.png" group-title="Filmes e Séries",universal
-https://tody.s25-cloudfront-net.lat/tody/universaltv.m3u8
 #EXTINF:-1 tvg-id="vrt-channel" tvg-name="vrt channel" tvg-logo="https://televisao.tv/images/vrt-channel.webp" group-title="Filmes e Séries",vrt channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="vrtchannel" tvg-name="vrtchannel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_319_1776875991.png" group-title="Filmes e Séries",vrtchannel
 https://sistemavrt2023.vrtchannel.tv.br:3626/stream/play.m3u8
-#EXTINF:-1 tvg-id="warnerchannel" tvg-name="warnerchannel" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/warnerchannel.png" group-title="Filmes e Séries",warnerchannel
-https://tody.s25-cloudfront-net.lat/tody/warnerchannel.m3u8
 #EXTINF:-1 tvg-id="web-tv-cine" tvg-name="web tv cine" tvg-logo="https://televisao.tv/images/web-tv-cine.webp" group-title="Filmes e Séries",web tv cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="40-graus-tv" tvg-name="40 graus tv ao vivo — turismo, cultura e destinos brasileiros" tvg-logo="https://televisao.tv/images/40-graus-tv.webp" group-title="Notícias",40 graus tv ao vivo — turismo, cultura e destinos brasileiros
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="bandnews" tvg-name="band news" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/bandnews.png" group-title="Notícias",band news
-https://tody.s25-cloudfront-net.lat/tody/bandnews.m3u8
 #EXTINF:-1 tvg-id="canal-312" tvg-name="canal 312" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_353_1778620150.png" group-title="Notícias",canal 312
 https://stmv4.voxtvhd.com.br/maikel4996/maikel4996/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-gov" tvg-name="canal gov" tvg-logo="https://televisao.tv/images/canal-gov.webp" group-title="Notícias",canal gov
 https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=10000.m3u8
 #EXTINF:-1 tvg-id="cariri-tv" tvg-name="cariri tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_11_1781318867.png" group-title="Notícias",cariri tv
 https://video05.logicahost.com.br/cariritv/cariritv/playlist.m3u8
-#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="cnn brasil" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cnnbrasil.png" group-title="Notícias",cnn brasil
-https://tody.s25-cloudfront-net.lat/tody/cnnbrasil.m3u8
-#EXTINF:-1 tvg-id="cnn-brasil" tvg-name="cnn brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZxAG6XrbPg7-e0nftPAplphSsq0us7J6HLMrQSnkiA&s=10" group-title="Notícias",cnn brasil
-https://tody.s25-cloudfront-net.lat/tody/cnnbrasil.m3u8
 #EXTINF:-1 tvg-id="creative-tv-brasil" tvg-name="creative tv brasil" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_9_1767829381.png" group-title="Notícias",creative tv brasil
 https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews-pt" tvg-name="euronews pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fee4bcbe6932805a9862a46b1773a0c1.webp" group-title="Notícias",euronews pt
 https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/9fa58b85-bcd6-475b-b6d8-7af97c72cba6/5.m3u8
-#EXTINF:-1 tvg-id="globonews" tvg-name="globo news" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globonews.png" group-title="Notícias",globo news
-https://tody.s25-cloudfront-net.lat/tody/globonews.m3u8
 #EXTINF:-1 tvg-id="news-rondonia-tv" tvg-name="news rondônia tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLsIa72NV8KNDMsKwQFt3eYnSivhFMghlRBPzg13drw&s=10" group-title="Notícias",news rondônia tv
 https://video01.logicahost.com.br/newsrondonia/newsrondonia/chunklist_w457531255.m3u8
 #EXTINF:-1 tvg-id="o-sertao-e-noticia" tvg-name="o sertão é notícia" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_47_1779234773.png" group-title="Notícias",o sertão é notícia
@@ -399,8 +191,6 @@ https://stmv7.voxtvhd.com.br/celso6243/celso6243/playlist.m3u8
 https://video03.logicahost.com.br/tvlivrebrasil/tvlivrebrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="a-lider-em-noticias" tvg-name="record news" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias",record news
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-#EXTINF:-1 tvg-id="ribeirao-web-news" tvg-name="ribeirão web news" tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/qZOOT6J4-mW6k2bi_YQz0tBhn_kp60fO.jpg" group-title="Notícias",ribeirão web news
-https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
 #EXTINF:-1 tvg-id="rs-news" tvg-name="rs news" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767986402.png" group-title="Notícias",rs news
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="sbtnews" tvg-name="sbt news" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/c60518f4-9b18-419f-afb8-3269d1a8a693/sbt_news_150x150.png" group-title="Notícias",sbt news
@@ -421,56 +211,20 @@ https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8
 https://servidor2.vcrmedia.com.br/hls/canalabc_src.m3u8
 #EXTINF:-1 tvg-id="adbtv" tvg-name="adbtv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad3c03d69d0f5d408f5839bed261948f.webp" group-title="Abertos",adbtv
 https://live.wayone.cloud/adbtv/adbtv/chunklist_w250830643.m3u8
-#EXTINF:-1 tvg-id="aparecida" tvg-name="aparecida" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/aparecida.png" group-title="Abertos",aparecida
-https://tody.s25-cloudfront-net.lat/tody/aparecida.m3u8
 #EXTINF:-1 tvg-id="araruna" tvg-name="araruna" tvg-logo="https://televisao.tv/images/araruna-tv.webp" group-title="Abertos",araruna
 https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w2045664646.m3u8
 #EXTINF:-1 tvg-id="band" tvg-name="band  ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/4c0a3c36-894f-457a-8a6d-28c8c2fe5699/band_rs_150x150.jpg" group-title="Abertos",band  ao vivo
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
-#EXTINF:-1 tvg-id="bandrj" tvg-name="band rj" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/bandrj.png" group-title="Abertos",band rj
-https://tody.s25-cloudfront-net.lat/tody/bandrj.m3u8
-#EXTINF:-1 tvg-id="bandsp" tvg-name="band sp" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/bandsp.png" group-title="Abertos",band sp
-https://tody.s25-cloudfront-net.lat/tody/bandsp.m3u8
 #EXTINF:-1 tvg-id="brazi-tv" tvg-name="brazi tv" tvg-logo="https://televisao.tv/images/brazi-tv.webp" group-title="Abertos",brazi tv
 https://cbtvnow.com:5866/hls/livest2024_1080p/index.m3u8
 #EXTINF:-1 tvg-id="bs-tv" tvg-name="bs tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/82af6d676cbbc2cd8abafdb8348d8da3.webp" group-title="Abertos",bs tv
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w614911970.m3u8
-#EXTINF:-1 tvg-id="canal-futura" tvg-name="canal futura" tvg-logo="https://static.wixstatic.com/media/bc26fa_053230c03ee14b8e99d051127a1e713a~mv2.webp/v1/fill/w_168,h_165,al_c,lg_1,q_80,enc_avif,quality_auto/futura.webp" group-title="Abertos",canal futura
-https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-id="channel-1" tvg-name="channel 1" tvg-logo="https://televisao.tv/images/channel-1.webp" group-title="Abertos",channel 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w2115428726.m3u8
 #EXTINF:-1 tvg-id="conectv-brasil" tvg-name="conectv brasil" tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="Abertos",conectv brasil
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="cultura" tvg-name="cultura" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cultura.png" group-title="Abertos",cultura
-https://tody.s25-cloudfront-net.lat/tody/cultura.m3u8
 #EXTINF:-1 tvg-id="demais-tv" tvg-name="demais tv" tvg-logo="https://televisao.tv/images/demais-tv.webp" group-title="Abertos",demais tv
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-id="fama-tv" tvg-name="fama tv ao vivo — informação local de famalicão" tvg-logo="https://televisao.tv/images/fama-tv.webp" group-title="Abertos",fama tv ao vivo — informação local de famalicão
-https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-#EXTINF:-1 tvg-id="globoam" tvg-name="globo am" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globoam.png" group-title="Abertos",globo am
-https://tody.s25-cloudfront-net.lat/tody/globoam.m3u8
-#EXTINF:-1 tvg-id="globoce" tvg-name="globo ce" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globoce.png" group-title="Abertos",globo ce
-https://tody.s25-cloudfront-net.lat/tody/globoce.m3u8
-#EXTINF:-1 tvg-id="globodf" tvg-name="globo df" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globodf.png" group-title="Abertos",globo df
-https://tody.s25-cloudfront-net.lat/tody/globodf.m3u8
-#EXTINF:-1 tvg-id="globoes" tvg-name="globo es" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globoes.png" group-title="Abertos",globo es
-https://tody.s25-cloudfront-net.lat/tody/globoes.m3u8
-#EXTINF:-1 tvg-id="globogo" tvg-name="globo go" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globogo.png" group-title="Abertos",globo go
-https://tody.s25-cloudfront-net.lat/tody/globogo.m3u8
-#EXTINF:-1 tvg-id="globomg" tvg-name="globo mg" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globomg.png" group-title="Abertos",globo mg
-https://tody.s25-cloudfront-net.lat/tody/globomg.m3u8
-#EXTINF:-1 tvg-id="globonovelas" tvg-name="globo novelas" group-title="Abertos",globo novelas
-https://tody.s25-cloudfront-net.lat/tody/globonovelas.m3u8
-#EXTINF:-1 tvg-id="globopb" tvg-name="globo pb" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globopb.png" group-title="Abertos",globo pb
-https://tody.s25-cloudfront-net.lat/tody/globopb.m3u8
-#EXTINF:-1 tvg-id="globope" tvg-name="globo pe" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globope.png" group-title="Abertos",globo pe
-https://tody.s25-cloudfront-net.lat/tody/globope.m3u8
-#EXTINF:-1 tvg-id="globorj" tvg-name="globo rj" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globorj.png" group-title="Abertos",globo rj
-https://tody.s25-cloudfront-net.lat/tody/globorj.m3u8
-#EXTINF:-1 tvg-id="globors" tvg-name="globo rs" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globors.png" group-title="Abertos",globo rs
-https://tody.s25-cloudfront-net.lat/tody/globors.m3u8
-#EXTINF:-1 tvg-id="globosp" tvg-name="globo sp" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globosp.png" group-title="Abertos",globo sp
-https://tody.s25-cloudfront-net.lat/tody/globosp.m3u8
 #EXTINF:-1 tvg-id="istv" tvg-name="istv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgY6K89Rag4d21yIpnLwm7W4VpRPrTORboj-KLz5e_T2aYcwustg_TKS9j-PKG-vh1k4nPDD9Y1ZoTPjG7BnQ5ktv6Wth_yw28jCH9tDEHVD4uhgtddukdnMqxd9moSW8tG1Ca8R3JFlFqvcP1TFLxJ-5yc8S6PfIFP7J7yYHa0oITYnDXiHLCMBTOFXw/s200/ISTV.webp" group-title="Abertos",istv
 https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1021136859.m3u8
 #EXTINF:-1 tvg-id="ja-viu-tv-play" tvg-name="já viu tv play" tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/dfvu0J4M3c_pQ5Qeks1Blits_TJPavaE.png" group-title="Abertos",já viu tv play
@@ -483,14 +237,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w730362173.m3u8
 #EXTINF:-1 tvg-id="porto-canal" tvg-name="porto canal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/15dfa81381e3e94f5a823ee970d0500e.webp" group-title="Abertos",porto canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/chunklist_b1996000_slen.m3u8
-#EXTINF:-1 tvg-id="recordgo" tvg-name="record go" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordgo.png" group-title="Abertos",record go
-https://tody.s25-cloudfront-net.lat/tody/recordgo.m3u8
-#EXTINF:-1 tvg-id="recordmg" tvg-name="record mg" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordmg.png" group-title="Abertos",record mg
-https://tody.s25-cloudfront-net.lat/tody/recordmg.m3u8
-#EXTINF:-1 tvg-id="recordrj" tvg-name="record rj" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordrj.png" group-title="Abertos",record rj
-https://tody.s25-cloudfront-net.lat/tody/recordrj.m3u8
-#EXTINF:-1 tvg-id="recordsp" tvg-name="record sp" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordsp.png" group-title="Abertos",record sp
-https://tody.s25-cloudfront-net.lat/tody/recordsp.m3u8
 #EXTINF:-1 tvg-id="redebrasil" tvg-name="rede brasil" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/13484669-3c6c-4ce6-bb03-4b3251962e3a/rede_brasil_150x150.jpg" group-title="Abertos",rede brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="redeminas" tvg-name="rede minas ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/2c489d00-883d-4633-b143-3e2f1b728d5d/rede_minas_150x150.png" group-title="Abertos",rede minas ao vivo
@@ -503,18 +249,12 @@ https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w759051315.m
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rede-utv" tvg-name="rede utv" tvg-logo="https://televisao.tv/images/rede-utv.webp" group-title="Abertos",rede utv
 https://utvsite.acessaradios.com.br/utvsite/_definst_/utvsite.stream/chunklist_w443950907.m3u8
-#EXTINF:-1 tvg-id="redevida" tvg-name="rede vida" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/redevida.png" group-title="Abertos",rede vida
-https://tody.s25-cloudfront-net.lat/tody/redevida.m3u8
 #EXTINF:-1 tvg-id="reisen-clube-tv" tvg-name="reisen clube tv" tvg-logo="https://s3minio.webativa.com.br/redeitv/reisen-clube-tv.png" group-title="Abertos",reisen clube tv
 https://pop.uniquetv.com.br/hls/reisenclubetv.m3u8
 #EXTINF:-1 tvg-id="rs-play-tv" tvg-name="rs play tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/263d4b567e7cffc11f7f5cdfc2be374c.webp" group-title="Abertos",rs play tv
 https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w42821153.m3u8
 #EXTINF:-1 tvg-id="sbt-interior-sp" tvg-name="sbt interior sp" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/d1d5b9bb-6509-4409-a426-d99d44592ce6/sbt_interior_150x150.jpg" group-title="Abertos",sbt interior sp
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-id="sbtrj" tvg-name="sbt rj" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sbtrj.png" group-title="Abertos",sbt rj
-https://tody.s25-cloudfront-net.lat/tody/sbtrj.m3u8
-#EXTINF:-1 tvg-id="sbtsp" tvg-name="sbt sp" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sbtsp.png" group-title="Abertos",sbt sp
-https://tody.s25-cloudfront-net.lat/tody/sbtsp.m3u8
 #EXTINF:-1 tvg-id="sertao-tv" tvg-name="sertão tv" tvg-logo="https://pbr-str.srvsite.com/arquivos/9531/cabecalho-9531-20240125173812.png" group-title="Abertos",sertão tv
 https://stmv8.samcast.com.br/tvsertaonet/tvsertaonet/playlist.m3u8
 #EXTINF:-1 tvg-id="sgc-tv-rede-tv-rondonia" tvg-name="sgc tv - rede tv rondônia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/33e89f38ff6e8d852ccdc0302ecf0a6e.webp" group-title="Abertos",sgc tv - rede tv rondônia
@@ -559,8 +299,6 @@ https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w427239309.m3u8
 #EXTINF:-1 tvg-id="tv-montanha" tvg-name="tv montanha" tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/X4hZm7ScIMnhv26ZSqIZGwt6dymRF0te.png" group-title="Abertos",tv montanha
 https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8
-#EXTINF:-1 tvg-id="tvpaieterno" tvg-name="tv pai eterno" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tvpaieterno.png" group-title="Abertos",tv pai eterno
-https://tody.s25-cloudfront-net.lat/tody/tvpaieterno.m3u8
 #EXTINF:-1 tvg-id="tv-pampa" tvg-name="tv pampa" tvg-logo="https://televisao.tv/images/tv-pampa.webp" group-title="Abertos",tv pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w107694160.m3u8
 #EXTINF:-1 tvg-id="tv-pantanal-ms" tvg-name="tv pantanal ms" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDE9uMlXBRUQaj7gQ_hf4O41GvBEwZ1cac9OEanoWKQ&s=10" group-title="Abertos",tv pantanal ms
@@ -577,18 +315,6 @@ https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-id="40gtv-ao-vivo" tvg-name="40gtv ao vivo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_67_1781318315.png" group-title="Variedades",40gtv ao vivo
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="afazenda181" tvg-name="a fazenda 18 - 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda.png" group-title="Variedades",a fazenda 18 - 1
-https://tody.s25-cloudfront-net.lat/tody/afazenda.m3u8
-#EXTINF:-1 tvg-id="afazenda182" tvg-name="a fazenda 18 - 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda2.png" group-title="Variedades",a fazenda 18 - 2
-https://tody.s25-cloudfront-net.lat/tody/afazenda2.m3u8
-#EXTINF:-1 tvg-id="afazenda183" tvg-name="a fazenda 18 - 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda3.png" group-title="Variedades",a fazenda 18 - 3
-https://tody.s25-cloudfront-net.lat/tody/afazenda3.m3u8
-#EXTINF:-1 tvg-id="afazenda184" tvg-name="a fazenda 18 - 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda4.png" group-title="Variedades",a fazenda 18 - 4
-https://tody.s25-cloudfront-net.lat/tody/afazenda4.m3u8
-#EXTINF:-1 tvg-id="afazenda185" tvg-name="a fazenda 18 - 5" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda5.png" group-title="Variedades",a fazenda 18 - 5
-https://tody.s25-cloudfront-net.lat/tody/afazenda5.m3u8
-#EXTINF:-1 tvg-id="ae" tvg-name="ae" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/ae.png" group-title="Variedades",ae
-https://tody.s25-cloudfront-net.lat/tody/ae.m3u8
 #EXTINF:-1 tvg-id="ag-tv" tvg-name="ag tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_373_1775488289.png" group-title="Variedades",ag tv
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-id="alma-gospel" tvg-name="alma gospel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_64_1781318505.png" group-title="Variedades",alma gospel
@@ -631,16 +357,12 @@ https://video05.logicahost.com.br/tvpontadoseixas/tvpontadoseixas/playlist.m3u8
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="fonte-tv" tvg-name="fonte tv" tvg-logo="https://televisao.tv/images/fonte-tv.webp" group-title="Variedades",fonte tv
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1723703555.m3u8
-#EXTINF:-1 tvg-id="gnt" tvg-name="gnt" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/gnt.png" group-title="Variedades",gnt
-https://tody.s25-cloudfront-net.lat/tody/gnt.m3u8
 #EXTINF:-1 tvg-id="tvadoradorgospel" tvg-name="gospel movie television" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/c5249387-1d79-4bba-8f42-cbabb181f427/gospel_movies_150x150.png" group-title="Variedades",gospel movie television
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="gramado-tv" tvg-name="gramado tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822858.png" group-title="Variedades",gramado tv
 https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8
 #EXTINF:-1 tvg-id="grjngo-faroeste" tvg-name="grjngo faroeste 24 hs" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/711f80cb-9ad6-4ea7-b980-8f16cd69a6e6/grjngo_150x150.jpg" group-title="Variedades",grjngo faroeste 24 hs
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="hip-hop-vai-alem-tv" tvg-name="hip-hop vai alem  tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_480_1788032465.png" group-title="Variedades",hip-hop vai alem  tv
-https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 tvg-id="ia-channel" tvg-name="ia channel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_60_1781318637.png" group-title="Variedades",ia channel
 https://iachannel.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="igreja-mundial" tvg-name="igreja mundial" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_66_1767831114.jpg" group-title="Variedades",igreja mundial
@@ -667,12 +389,8 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-id="mamore-hits" tvg-name="mamoré hits" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_13_1768018976.jpg" group-title="Variedades",mamoré hits
 https://stmv1.voxtvhd.com.br/mamoretv/mamoretv/playlist.m3u8
-#EXTINF:-1 tvg-id="master-chef-brasil" tvg-name="master chef brasil" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/a95622ab-c054-40e0-9dbe-69e5beda8164/master_chefe_150x150.png" group-title="Variedades",master chef brasil
-https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59647c0dd4ebdd4d20883448e7fa7099c93a68ace42d381c77efc02b036510f7a2fc98528cbfbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effad13a9b7c05109ca8a6054b0f3f8d3f8d662d6d5d57dc5c82626e/145/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="ministerio-infantil-tv" tvg-name="ministério infantil tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_152_1767815866.png" group-title="Variedades",ministério infantil tv
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 tvg-id="multishow" tvg-name="multishow" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/multishow.png" group-title="Variedades",multishow
-https://tody.s25-cloudfront-net.lat/tody/multishow.m3u8
 #EXTINF:-1 tvg-id="mundo-on" tvg-name="mundo on" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_447_1781315549.png" group-title="Variedades",mundo on
 https://stmv8.samcast.com.br/suelen5027/suelen5027/playlist.m3u8
 #EXTINF:-1 tvg-id="muzangala-tv" tvg-name="muzangala tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_353_1773029025.png" group-title="Variedades",muzangala tv
@@ -683,8 +401,6 @@ https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
 #EXTINF:-1 tvg-id="nova-tvi-petropolis" tvg-name="nova tvi petrópolis" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_371_1774305973.png" group-title="Variedades",nova tvi petrópolis
 https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8
-#EXTINF:-1 tvg-id="off" tvg-name="off" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/off.png" group-title="Variedades",off
-https://tody.s25-cloudfront-net.lat/tody/off.m3u8
 #EXTINF:-1 tvg-id="on-fm" tvg-name="on fm" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_348_1773028673.png" group-title="Variedades",on fm
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ortv-web-filmes-e-variedades-culturais" tvg-name="ortv web filmes e variedades culturais" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_421_1792698151.png" group-title="Variedades",ortv web filmes e variedades culturais
@@ -739,22 +455,12 @@ https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/4300.m3u8
 https://v01.taaqui.org/srtv/srtv/playlist.m3u8
 #EXTINF:-1 tvg-id="summit-tv" tvg-name="summit tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767793406.png" group-title="Variedades",summit tv
 https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
-#EXTINF:-1 tvg-id="tastemade-brasil" tvg-name="tastemade brasil" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/5d39cfbb-0b21-4dec-9207-70eeaa99a7bb/tastemade_brasil_150x150.png" group-title="Variedades",tastemade brasil
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f596139c874eea81870e83448e7fa7099c93a68ace18808f957efb55b5635f0e2424c8827892fbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effbd5362efded0ff2d0725dcdb6b302ca36076251b4bdd9abcb96/58/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="telemetro" tvg-name="telemetro" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785851688.png" group-title="Variedades",telemetro
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 #EXTINF:-1 tvg-id="that-s-80s-ao-vivo-hits-e-estetica-dos-anos-80" tvg-name="that's 80s ao vivo — hits e estética dos anos 80" tvg-logo="https://televisao.tv/images/thats-80s.webp" group-title="Variedades",that's 80s ao vivo — hits e estética dos anos 80
 https://lightning-now80s-rakuten.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="that-s-90s00s-ao-vivo-clipes-dos-anos-90-e-2000" tvg-name="that's 90s00s ao vivo — clipes dos anos 90 e 2000" tvg-logo="https://televisao.tv/images/thats-90s00s.webp" group-title="Variedades",that's 90s00s ao vivo — clipes dos anos 90 e 2000
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb573e1e7b6c608d84c83f60cef24282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dd6ebfb102488b2f57f387169d8719bb858046cf12d07eec159cc4f196da11878f8c36af5fb0350c59727ecbd62da12e3cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3ec8577e6c23335083d15a7332acedaf99b9415b2cba49c39bbf404ce39f277948895dd9372737da9aa171d49445c6e671c2dc036c70de7d9c9094e523964cde88487292e054d24c634366160b855ceda96cd416ed79bdc21c1bfb2c2eb0b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137586237930bb49d9aa1440806ede5c4b195006f496a4112298fe5a821cedc8e7953468f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a9cd5670536f84c7a28e81c2b82d9876d0ddf22a203d4d19d31601216b93fbcd6ef4364f716d4ec2684046ae0c4e4dfa9fabb2c0600f2649f81e5e61895498b2fcb695878dec4c16c650fd/79/1920x1080_4716800/index.m3u8
 #EXTINF:-1 tvg-id="that-s-rock-ao-vivo-guitarras-hits-e-blocos-de-rock" tvg-name="that's rock ao vivo — guitarras, hits e blocos de rock" tvg-logo="https://televisao.tv/images/thats-rock.webp" group-title="Variedades",that's rock ao vivo — guitarras, hits e blocos de rock
 https://lightning-now90s-rakuten.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-name="tnt" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tnt.png" group-title="Variedades",tnt
-https://tody.s25-cloudfront-net.lat/tody/tnt.m3u8
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="tnt novelas" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tntnovelas.png" group-title="Variedades",tnt novelas
-https://tody.s25-cloudfront-net.lat/tody/tntnovelas.m3u8
-#EXTINF:-1 tvg-id="tntseries" tvg-name="tnt series" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tntseries.png" group-title="Variedades",tnt series
-https://tody.s25-cloudfront-net.lat/tody/tntseries.m3u8
 #EXTINF:-1 tvg-id="top-gospel-fm" tvg-name="top gospel fm" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_317_1775488249.jpg" group-title="Variedades",top gospel fm
 https://a.cdni.live/topgospelfm/topgospelfm/playlist.m3u8
 #EXTINF:-1 tvg-id="top-mix-tv" tvg-name="top mix tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_24_1768263127.png" group-title="Variedades",top mix tv
@@ -763,10 +469,6 @@ https://video01.logicahost.com.br/topmixtvgospelcanal03/topmixtvgospelcanal03/pl
 https://video01.logicahost.com.br/topmixtvgospel01/topmixtvgospel01/chunklist_w547380142.m3u8
 #EXTINF:-1 tvg-id="top-tv" tvg-name="top tv" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/aef91f14-2460-487e-a0f4-889824088f84/top_tv_150x150.jpg" group-title="Variedades",top tv
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="trace-brasil" tvg-name="trace brasil" tvg-logo="https://televisao.tv/images/trace-brasil.webp" group-title="Variedades",trace brasil
-https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="tubacast-tv" tvg-name="tubacast tv+" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1786971089.png" group-title="Variedades",tubacast tv+
-https://tv.rbti.tv.br/rbti4/index.m3u8
 #EXTINF:-1 tvg-id="tudo-e-viagem" tvg-name="tudo e viagem" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_62_1781318534.png" group-title="Variedades",tudo e viagem
 https://tudoeviagem.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="tv-adorador-gospel" tvg-name="tv adorador gospel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwWqWOyCA9VdwRSngc5-h6heqpqWxn1OWKpISALd4ZgpjW6aUjkRLqjvnAVvqObQxK95HMfDc_NqiR-nIgQH3lgfidXcqBpQiJj1Ya33jq5cerOSrXpN6AcbyqcjW-lEMj5POq9eDoqmp0fqsb7hgXj8R8pL_DjTm1WJk4RjDnNPuryswP1VEmAFov/w200-h100/TV%20ADORADOR%20GOSPEL.jpg" group-title="Variedades",tv adorador gospel
@@ -883,8 +585,6 @@ https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
 https://stmv2.srvif.com/tvomindare/tvomindare/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-ourinhos" tvg-name="tv ourinhos" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822191.png" group-title="Variedades",tv ourinhos
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-pai-eterno" tvg-name="tv pai eterno" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822713.png" group-title="Variedades",tv pai eterno
-https://tody.s25-cloudfront-net.lat/tody/tvpaieterno.m3u8
 #EXTINF:-1 tvg-id="tv-paradise" tvg-name="tv paradise" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767823438.png" group-title="Variedades",tv paradise
 https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-planalto" tvg-name="tv planalto" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_106_1767831555.png" group-title="Variedades",tv planalto

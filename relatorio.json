@@ -1,184 +1,32 @@
 {
- "gerado_em": "2026-11-15T13:51:42Z",
- "atualizacao": 7,
+ "gerado_em": "2026-11-15T13:55:04Z",
+ "atualizacao": 8,
  "limite_falhas": 6,
  "catalogo_site": 580,
  "com_link": 580,
- "na_lista": 480,
+ "na_lista": 330,
  "tocando": 328,
- "em_falha": 152,
- "removidos": 100,
+ "em_falha": 2,
+ "removidos": 250,
  "novos": 0,
  "fora_do_site": 0,
  "por_categoria": {
-  "Esportes": 58,
-  "Infantil": 30,
-  "Documentários": 20,
-  "Filmes e Séries": 77,
-  "Notícias": 23,
-  "Abertos": 80,
-  "Variedades": 192
+  "Esportes": 20,
+  "Infantil": 18,
+  "Documentários": 6,
+  "Filmes e Séries": 41,
+  "Notícias": 18,
+  "Abertos": 54,
+  "Variedades": 173
  },
  "detalhes_falha": [
   {
-   "nome": "24h chaves",
-   "motivo": "HTTP 403"
+   "nome": "canal 25",
+   "motivo": "HTTP 404"
   },
   {
-   "nome": "24h dragon ball z",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "24h friends",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "24h naruto clássico",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "24h os simpsons",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "24h pica pau",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "24h todo mundo odeia o cris",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "a fazenda 18 - 1",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "a fazenda 18 - 2",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "a fazenda 18 - 3",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "a fazenda 18 - 4",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "a fazenda 18 - 5",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "ae",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "amc",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "animal planet",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "aparecida",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "axn",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "band news",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "band rj",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "band sp",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "band sports",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "cartoon network",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "cartoonito",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "cazetv 1",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "cazetv 2",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "cinemax",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "cnn brasil",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "combate",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "cultura",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "discovery channel",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "discovery h&h",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "discovery id",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "discovery kids",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "discovery science",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "discovery theater",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "discovery turbo",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "discovery world",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "disney plus 1",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "espn",
-   "motivo": "HTTP 403"
-  },
-  {
-   "nome": "espn 2",
-   "motivo": "HTTP 403"
+   "nome": "rede vivax tv",
+   "motivo": "HTTP sem resposta"
   }
  ]
 }
