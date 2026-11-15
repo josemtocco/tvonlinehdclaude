@@ -75,8 +75,6 @@ https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=323409ok
 https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=5k40b276
 #EXTINF:-1 tvg-id="tv-mana-2" tvg-name="tv maná 2" tvg-logo="https://televisao.tv/images/tv-mana-2.webp" group-title="Infantil",tv maná 2
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1005453751_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-id="canal-25" tvg-name="canal 25" tvg-logo="https://televisao.tv/images/canal-25.webp" group-title="Documentários",canal 25
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="hardcore-pawn" tvg-name="hardcore pawn ao vivo — negociações, conflitos e loja de penhores" tvg-logo="https://televisao.tv/images/hardcore-pawn.webp" group-title="Documentários",hardcore pawn ao vivo — negociações, conflitos e loja de penhores
 https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
 #EXTINF:-1 tvg-id="nature-time-brasil" tvg-name="nature time brasil ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/76c93a8c-9f30-4c4c-9767-d8e389641ff9/nature_time_150x150.jpg" group-title="Documentários",nature time brasil ao vivo
@@ -433,8 +431,6 @@ https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w335051883.m3u8
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-universo-tv" tvg-name="rede universo tv ao vivo" tvg-logo="https://televisao.tv/images/rede-universo-tv.webp" group-title="Variedades",rede universo tv ao vivo
 https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
-#EXTINF:-1 tvg-id="rede-vivax-tv" tvg-name="rede vivax tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822603.png" group-title="Variedades",rede vivax tv
-https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-wtjminas" tvg-name="rede wtjminas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_336_1773027913.png" group-title="Variedades",rede wtjminas
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w886189678.m3u8
 #EXTINF:-1 tvg-id="retro-music-television-ao-vivo-videoclipes-dos-anos-60-aos-2000" tvg-name="retro music television ao vivo — videoclipes dos anos 60 aos 2000" tvg-logo="https://televisao.tv/images/retro-music-television.webp" group-title="Variedades",retro music television ao vivo — videoclipes dos anos 60 aos 2000

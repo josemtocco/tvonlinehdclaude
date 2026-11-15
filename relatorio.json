@@ -1,32 +1,36 @@
 {
- "gerado_em": "2026-11-15T13:55:04Z",
- "atualizacao": 8,
+ "gerado_em": "2026-11-15T22:30:09Z",
+ "atualizacao": 9,
  "limite_falhas": 6,
  "catalogo_site": 580,
  "com_link": 580,
- "na_lista": 330,
- "tocando": 328,
- "em_falha": 2,
- "removidos": 250,
+ "na_lista": 328,
+ "tocando": 325,
+ "em_falha": 3,
+ "removidos": 252,
  "novos": 0,
  "fora_do_site": 0,
  "por_categoria": {
   "Esportes": 20,
   "Infantil": 18,
-  "Documentários": 6,
+  "Documentários": 5,
   "Filmes e Séries": 41,
   "Notícias": 18,
   "Abertos": 54,
-  "Variedades": 173
+  "Variedades": 172
  },
  "detalhes_falha": [
   {
-   "nome": "canal 25",
+   "nome": "tv pantanal ms",
    "motivo": "HTTP 404"
   },
   {
-   "nome": "rede vivax tv",
-   "motivo": "HTTP sem resposta"
+   "nome": "tv gideões",
+   "motivo": "HTTP 404"
+  },
+  {
+   "nome": "ia channel",
+   "motivo": "não é manifesto HLS"
   }
  ]
 }
