@@ -1,25 +1,29 @@
 {
- "gerado_em": "2026-11-16T04:48:14Z",
- "atualizacao": 10,
+ "gerado_em": "2026-11-16T14:50:37Z",
+ "atualizacao": 11,
  "limite_falhas": 6,
  "catalogo_site": 580,
- "com_link": 580,
- "na_lista": 329,
- "tocando": 328,
- "em_falha": 1,
- "removidos": 251,
+ "com_link": 380,
+ "na_lista": 250,
+ "tocando": 248,
+ "em_falha": 2,
+ "removidos": 130,
  "novos": 0,
  "fora_do_site": 0,
  "por_categoria": {
-  "Esportes": 20,
-  "Infantil": 18,
+  "Esportes": 13,
+  "Infantil": 11,
   "Documentários": 5,
-  "Filmes e Séries": 41,
-  "Notícias": 18,
-  "Abertos": 54,
-  "Variedades": 173
+  "Filmes e Séries": 26,
+  "Notícias": 14,
+  "Abertos": 31,
+  "Variedades": 150
  },
  "detalhes_falha": [
+  {
+   "nome": "rede super",
+   "motivo": "HTTP 404"
+  },
   {
    "nome": "ia channel",
    "motivo": "não é manifesto HLS"
