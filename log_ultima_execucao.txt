@@ -1,8 +1,8 @@
 ======================================================================
- TV Online HD -> M3U  |  15/11/2026 22:29:03
+ TV Online HD -> M3U  |  16/11/2026 04:47:10
 ======================================================================
 [0/5] Rede: conexão direta (sem proxy)
-      IP de saída real: 20.x.x.144  país: US
+      IP de saída real: 52.x.x.99  país: US
       BR_IP_CLIENTE ativo: cabeçalhos X-Forwarded-For/X-Real-IP enviados (não muda o IP real da conexão)
       [aviso] a conexão NÃO sai do Brasil: canais com bloqueio regional vão aparecer como falha.
 [1/5] Baixando a pagina inicial...
@@ -20,31 +20,31 @@
       canais no catalogo: 580
       canais com link direto .m3u8: 580
 
-[4/5] Validando transmissões (atualizacao #9)...
+[4/5] Validando transmissões (atualizacao #10)...
       ffprobe disponível: sim
       50/580 testados (0s)
       100/580 testados (0s)
-      150/580 testados (0s)
+      150/580 testados (1s)
       200/580 testados (1s)
       250/580 testados (9s)
       300/580 testados (14s)
       350/580 testados (19s)
-      400/580 testados (24s)
-      450/580 testados (33s)
-      500/580 testados (41s)
-      550/580 testados (46s)
-      580/580 testados (56s)
+      400/580 testados (23s)
+      450/580 testados (31s)
+      500/580 testados (38s)
+      550/580 testados (42s)
+      580/580 testados (54s)
 
 [5/5] Lista gerada
 ----------------------------------------------------------------------
 Canais no site .............: 580
 Com link direto ...........: 580
-TOCANDO (na lista) ........: 325
-Em falha (mantidos) .......: 3  (removidos após 6 falhas)
-Removidos nesta rodada ....: 252
+TOCANDO (na lista) ........: 328
+Em falha (mantidos) .......: 1  (removidos após 6 falhas)
+Removidos nesta rodada ....: 251
 Novos canais ..............: 0
 Fora do site (limpo) ......: 0
-Total na lista ............: 328 canais
+Total na lista ............: 329 canais
 ----------------------------------------------------------------------
 Canais por categoria:
    Esportes               20
@@ -53,7 +53,7 @@ Canais por categoria:
    Filmes e Séries        41
    Notícias               18
    Abertos                54
-   Variedades            172
+   Variedades            173
 ----------------------------------------------------------------------
 Removidos após 6 falhas:
    - 24h chaves
@@ -77,5 +77,5 @@ Removidos após 6 falhas:
    - aparecida
    - tv aparecida
 ----------------------------------------------------------------------
-Arquivo: tvonlinehd.m3u  (328 canais)
-Tempo total: 67s
+Arquivo: tvonlinehd.m3u  (329 canais)
+Tempo total: 64s

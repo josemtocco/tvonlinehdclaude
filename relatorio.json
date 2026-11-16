@@ -1,13 +1,13 @@
 {
- "gerado_em": "2026-11-15T22:30:09Z",
- "atualizacao": 9,
+ "gerado_em": "2026-11-16T04:48:14Z",
+ "atualizacao": 10,
  "limite_falhas": 6,
  "catalogo_site": 580,
  "com_link": 580,
- "na_lista": 328,
- "tocando": 325,
- "em_falha": 3,
- "removidos": 252,
+ "na_lista": 329,
+ "tocando": 328,
+ "em_falha": 1,
+ "removidos": 251,
  "novos": 0,
  "fora_do_site": 0,
  "por_categoria": {
@@ -17,17 +17,9 @@
   "Filmes e Séries": 41,
   "Notícias": 18,
   "Abertos": 54,
-  "Variedades": 172
+  "Variedades": 173
  },
  "detalhes_falha": [
-  {
-   "nome": "tv pantanal ms",
-   "motivo": "HTTP 404"
-  },
-  {
-   "nome": "tv gideões",
-   "motivo": "HTTP 404"
-  },
   {
    "nome": "ia channel",
    "motivo": "não é manifesto HLS"

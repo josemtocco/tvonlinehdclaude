@@ -431,6 +431,8 @@ https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w335051883.m3u8
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-universo-tv" tvg-name="rede universo tv ao vivo" tvg-logo="https://televisao.tv/images/rede-universo-tv.webp" group-title="Variedades",rede universo tv ao vivo
 https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-vivax-tv" tvg-name="rede vivax tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822603.png" group-title="Variedades",rede vivax tv
+https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-wtjminas" tvg-name="rede wtjminas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_336_1773027913.png" group-title="Variedades",rede wtjminas
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w886189678.m3u8
 #EXTINF:-1 tvg-id="retro-music-television-ao-vivo-videoclipes-dos-anos-60-aos-2000" tvg-name="retro music television ao vivo — videoclipes dos anos 60 aos 2000" tvg-logo="https://televisao.tv/images/retro-music-television.webp" group-title="Variedades",retro music television ao vivo — videoclipes dos anos 60 aos 2000
