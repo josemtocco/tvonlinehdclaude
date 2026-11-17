@@ -1,8 +1,8 @@
 ======================================================================
- TV Online HD -> M3U  |  16/11/2026 14:49:24
+ TV Online HD -> M3U  |  17/11/2026 01:36:18
 ======================================================================
 [0/5] Rede: conexão direta (sem proxy)
-      IP de saída real: 52.x.x.201  país: US
+      IP de saída real: 172.x.x.231  país: US
       BR_IP_CLIENTE ativo: cabeçalhos X-Forwarded-For/X-Real-IP enviados (não muda o IP real da conexão)
       [aviso] a conexão NÃO sai do Brasil: canais com bloqueio regional vão aparecer como falha.
 [1/5] Baixando a pagina inicial...
@@ -16,62 +16,58 @@
       400/580 consultados...
       500/580 consultados...
       580/580 consultados...
-      canais com link resolvido: 380 de 580
+      canais com link resolvido: 163 de 580
       canais no catalogo: 580
-      canais com link direto .m3u8: 380
+      canais com link direto .m3u8: 163
 
-[4/5] Validando transmissões (atualizacao #11)...
+[4/5] Validando transmissões (atualizacao #12)...
       ffprobe disponível: sim
-      50/380 testados (0s)
-      100/380 testados (2s)
-      150/380 testados (8s)
-      200/380 testados (11s)
-      250/380 testados (19s)
-      300/380 testados (24s)
-      350/380 testados (28s)
-      380/380 testados (40s)
+      50/163 testados (0s)
+      100/163 testados (5s)
+      150/163 testados (9s)
+      163/163 testados (21s)
 
 [5/5] Lista gerada
 ----------------------------------------------------------------------
 Canais no site .............: 580
-Com link direto ...........: 380
-TOCANDO (na lista) ........: 248
-Em falha (mantidos) .......: 2  (removidos após 6 falhas)
-Removidos nesta rodada ....: 130
+Com link direto ...........: 163
+TOCANDO (na lista) ........: 92
+Em falha (mantidos) .......: 1  (removidos após 6 falhas)
+Removidos nesta rodada ....: 70
 Novos canais ..............: 0
 Fora do site (limpo) ......: 0
-Total na lista ............: 250 canais
+Total na lista ............: 93 canais
 ----------------------------------------------------------------------
 Canais por categoria:
-   Esportes               13
-   Infantil               11
-   Documentários           5
-   Filmes e Séries        26
-   Notícias               14
-   Abertos                31
-   Variedades            150
+   Esportes                4
+   Infantil                5
+   Documentários           2
+   Filmes e Séries        10
+   Notícias                5
+   Abertos                 6
+   Variedades             61
 ----------------------------------------------------------------------
 Removidos após 6 falhas:
-   - 24h dragon ball z
+   - 24h friends
    - 24h naruto clássico
-   - 24h pica pau
-   - a fazenda 18 - 2
-   - a fazenda 18 - 3
-   - amazon prime
+   - 24h todo mundo odeia o cris
+   - amazon prime 02
    - amc
-   - amc séries
-   - apple tv 02
-   - apple tv 04
-   - band sp
-   - band sports
-   - canal goat
-   - canção nova
-   - cartoon network
+   - animal planet
+   - tv aparecida
+   - apple tv 05
+   - apple tv 06
    - cartoonito
-   - cazetv 1
-   - cazétv
-   - cinemax
+   - cazétv 4
    - combate
+   - tv cultura
+   - dazn
+   - discovery channel
+   - discovery science
+   - disney plus 3
+   - espn 5
+   - globo df
+   - globo go
 ----------------------------------------------------------------------
-Arquivo: tvonlinehd.m3u  (250 canais)
-Tempo total: 73s
+Arquivo: tvonlinehd.m3u  (93 canais)
+Tempo total: 52s
